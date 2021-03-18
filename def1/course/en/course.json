@@ -1,0 +1,445 @@
+{
+  "title": "Protecting the rights of individuals while maximising the utility of data",
+  "displayTitle": "Protecting the rights of individuals while maximising the utility of data (DEP)",
+  "body": "",
+  "subtitle": "",
+  "description": "",
+  "instruction": "",
+  "_htmlClasses": "",
+  "_latestTrackingId": 15,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_requireCompletionOf": -1,
+  "_lockType": "",
+  "_id": "course",
+  "_start": {
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "6022ae6e7dd851005ec5c761",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
+    "_force": false,
+    "_isMenuDisabled": true
+  },
+  "_globals": {
+    "_accessibility": {
+      "skipNavigationText": "Skip navigation",
+      "_ariaLabels": {
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "skipNavigation": "Skip Navigation",
+        "previous": "Back",
+        "navigationDrawer": "Open course resources.",
+        "close": "Close",
+        "closeDrawer": "Close Drawer",
+        "closeResources": "Close resources",
+        "drawer": "Top of side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Completed",
+        "incomplete": "Incomplete",
+        "incorrect": "Incorrect",
+        "correct": "Correct",
+        "locked": "Locked",
+        "visited": "Visited"
+      }
+    },
+    "_components": {
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_assessmentSummary": {
+        "ariaRegion": "Assessment summary."
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_narrative": {
+        "ariaRegion": "Slide show. Select the next button to progress.",
+        "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
+      },
+      "_media": {
+        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}.",
+        "skipToTranscript": "Skip to transcript"
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Image with selectable areas. Select each button to show more information.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_accordion": {
+        "ariaRegion": "List of expandable sections. Select each button to expand the content."
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit."
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_mcq": {
+        "ariaRegion": "Multiple choice question. Select your option and then submit."
+      },
+      "_gmcq": {
+        "ariaRegion": "Multiple choice question. Select your option and then submit."
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      }
+    },
+    "_extensions": {
+      "_ODILicence": {
+        "linkText": "License",
+        "titleText": "License"
+      },
+      "_aboutPage": {
+        "linkText": "About",
+        "titleText": "About",
+        "contactEMail": "",
+        "contactLinkText": "",
+        "aboutCredit": "",
+        "SL_text": "<p>This work is a derivative of a work of the same title originally&nbsp;created for <a href=\"https://www.cabi.org/\" target=\"_blank\">CABI</a>&nbsp;(the works owners)&nbsp;by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>&nbsp;and used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" rel=\"nofollow\" target=\"_blank\">CC BY</a>.</p>",
+        "SL_facebook": "",
+        "SL_flickr": "",
+        "SL_github": "",
+        "SL_scribd": "",
+        "SL_soundcloud": "",
+        "SL_twitter": "",
+        "SL_vimeo": "",
+        "SL_youtube": ""
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
+        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional content"
+      },
+      "_resources": {
+        "resources": "Additional resources."
+      }
+    },
+    "_menu": {
+      "_boxMenu": {
+        "durationLabel": "Duration:"
+      }
+    }
+  },
+  "_type": "course",
+  "themeVariables": {
+    "_global": {
+      "max-width": "1200px",
+      "device-width-small": "520px",
+      "device-width-medium": "900px",
+      "device-width-large": "1024px",
+      "title-family": "'Open Sans', Helvetica, Arial, sans-serif",
+      "body-family": "'Open Sans', Helvetica, Arial, sans-serif",
+      "btn-family": "'Open Sans', Helvetica, Arial, sans-serif",
+      "font-color": "#4d4d4d",
+      "font-color-inverted": "#ffffff",
+      "link": "",
+      "link-inverted": "",
+      "link-hover": "",
+      "link-inverted-hover": ""
+    },
+    "_themeLogo": {
+      "theme-logo": "course/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "theme-logo-top-padding": "0rem",
+      "theme-logo-width": "75%"
+    },
+    "_colors": {
+      "color-one": "#40aee3",
+      "color-one-inverted": "#ffffff",
+      "color-two": "#f9bc26",
+      "color-two-inverted": "#ffffff",
+      "color-three": "#ff6700",
+      "color-three-inverted": "#ffffff",
+      "color-four": "#0dbc37",
+      "color-four-inverted": "#ffffff",
+      "color-five": "#722ea5",
+      "color-five-inverted": "#ffffff",
+      "color-six": "#2254f4",
+      "color-six-inverted": "#ffffff",
+      "color-seven": "#d60303",
+      "color-seven-inverted": "#ffffff",
+      "color-eight": "#ef3aab",
+      "color-eight-inverted": "#ffffff",
+      "color-nine": "#e6007c",
+      "color-nine-inverted": "#ffffff",
+      "color-ten": "#999999",
+      "color-ten-inverted": "#ffffff"
+    },
+    "_items": {
+      "item-color": "#00b6ff",
+      "item-color-inverted": "#ffffff",
+      "item-color-hover": "",
+      "item-color-inverted-hover": "",
+      "item-color-selected": "",
+      "item-color-inverted-selected": "",
+      "visited": "#333333",
+      "visited-inverted": "#ffffff"
+    },
+    "_buttons": {
+      "btn-color": "#333333",
+      "btn-color-inverted": "#ffffff",
+      "btn-color-hover": "",
+      "btn-color-inverted-hover": "",
+      "disabled": "#dddddd",
+      "disabled-inverted": "#000000"
+    },
+    "_validation": {
+      "validation-success": "#0dbc37",
+      "validation-success-inverted": "#ffffff",
+      "validation-error": "#d60303",
+      "validation-error-inverted": "#ffffff"
+    },
+    "_progress": {
+      "progress": "#333333",
+      "progress-inverted": "#ffffff",
+      "progress-border": "#333333"
+    },
+    "_menu": {
+      "menu-item": "#00b6ff",
+      "menu-item-inverted": "#ffffff",
+      "menu-item-border-color": "#00b6ff",
+      "menu-item-progress": "#00b6ff",
+      "menu-item-progress-inverted": "#ffffff",
+      "menu-item-progress-border": "#ffffff",
+      "menu-item-btn-color": "#ffffff",
+      "menu-item-btn-color-inverted": "#00b6ff",
+      "menu-item-btn-color-hover": "#333333",
+      "menu-item-btn-color-inverted-hover": "#ffffff"
+    },
+    "_nav": {
+      "nav": "#333333",
+      "nav-inverted": "#ffffff",
+      "hide-nav": true,
+      "nav-icon": "#ffffff",
+      "nav-icon-inverted": "#ffffff",
+      "nav-icon-hover": "#ffffff",
+      "nav-icon-inverted-hover": "#ffffff",
+      "navigation-logo": "",
+      "nav-logo-height": "60px",
+      "nav-logo-height-mobile": "50px",
+      "nav-logo-padding-top": "5px",
+      "nav-logo-padding-top-mobile": "3px",
+      "nav-logo-padding-left": "5px",
+      "nav-logo-padding-left-mobile": "3px",
+      "nav-progress": "",
+      "nav-progress-inverted": "",
+      "nav-progress-border": "",
+      "nav-progress-hover": "",
+      "nav-progress-inverted-hover": "",
+      "nav-progress-border-hover": ""
+    },
+    "_footer": {
+      "footer": "#333333",
+      "footer-inverted": "#ffffff",
+      "footer-logo": "course/assets/f9855a4bc775449c566dabcd78c05fde759d0689.png"
+    },
+    "_notify": {
+      "notify": "#333333",
+      "notify-inverted": "#ffffff",
+      "notify-link": "",
+      "notify-link-hover": "",
+      "notify-btn": "",
+      "notify-btn-inverted": "",
+      "notify-btn-hover": "",
+      "notify-btn-inverted-hover": "",
+      "notify-icon": "",
+      "notify-icon-inverted": "",
+      "notify-icon-hover": "",
+      "notify-icon-inverted-hover": ""
+    },
+    "_drawer": {
+      "drawer": "#333333",
+      "drawer-inverted": "#ffffff",
+      "drawer-link": "",
+      "drawer-link-hover": "",
+      "drawer-icon": "",
+      "drawer-icon-inverted": "",
+      "drawer-icon-hover": "",
+      "drawer-icon-inverted-hover": "",
+      "drawer-item": "",
+      "drawer-item-inverted": "",
+      "drawer-item-hover": "",
+      "drawer-item-inverted-hover": "",
+      "drawer-item-selected": "",
+      "drawer-item-inverted-selected": "",
+      "drawer-progress": "",
+      "drawer-progress-inverted": "",
+      "drawer-progress-border": "",
+      "drawer-progress-hover": "",
+      "drawer-progress-inverted-hover": "",
+      "drawer-progress-border-hover": ""
+    },
+    "_misc": {
+      "background": "#333333",
+      "background-inverted": "#ffffff",
+      "shadow": "#333333",
+      "shadow-inverted": "#ffffff"
+    }
+  },
+  "_ODILicence": {
+    "_items": [
+      {
+        "title": "License",
+        "description": "<p>Protecting the rights of individuals while maximising the utility of data&nbsp;by the&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> is licensed under a <a href=\"http://creativecommons.org/licenses/by/4.0/\" rel=\"license\">Creative Commons Attribution 4.0 International License</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/19bb513efae607af695cb3d10bb16e2a5b51c2ab.png"
+        }
+      },
+      {
+        "title": "Content usage",
+        "description": "<div class=\"drawer-item-description-inner\">The content, including text and structure is available for you to <strong><em>use</em></strong>, <strong><em>reuse</em> </strong>and <strong><em>share</em> </strong>(including for commercial purposes) subject to the conditions of the license above.</div>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Exclusions",
+        "description": "<p>This license does not cover:</p><ul><li>Logos and trade marks belonging to the&nbsp;Open Data Institute.</li><li>Third party content (such as images)</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Non-endorcement",
+        "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "No warranty ",
+        "description": "<p>The Information is licensed 'as is'. The information provider is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use.</p><p>The Information Provider does not guarantee the continued supply of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  "_FooterLink": {
+    "_items": [
+      {
+        "title": "Privacy policy",
+        "link": "https://theodi.org/about-the-odi/legal/privacy-policy"
+      }
+    ]
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "title": "",
+        "description": "<p>The Open Data Institute&nbsp;have produced this eLearning to support the Data Ethics Facilitators programme.</p><p>Development of this content was funded by Innovate UK.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 60
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_resources": {
+    "_isEnabled": false,
+    "_drawerOrder": 0,
+    "title": "Resources",
+    "description": "Select here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": []
+  },
+  "_spoor": {
+    "_messages": ""
+  },
+  "_boxMenu": {
+    "_backgroundImage": {
+      "_large": "",
+      "_medium": "",
+      "_small": ""
+    },
+    "_backgroundStyles": {
+      "_backgroundRepeat": null,
+      "_backgroundSize": null,
+      "_backgroundPosition": null
+    },
+    "_menuHeader": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      }
+    }
+  }
+}

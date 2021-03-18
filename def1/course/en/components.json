@@ -1,0 +1,1563 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>One of the common challenges faced when considering <strong>data ethics</strong> is how to handle <strong>personal data</strong>. Attitudes and fears around personal data, and a lack of clarity over what personal data actually is, can often contribute to negative outcomes. For example, fears over collecting, using and sharing personal data often result in data not getting to those who need it, potentially leading to unethical outcomes.&nbsp;</p><p>The challenge starts with understanding just what personal data is, the difference between this and <strong>sensitive commercial data</strong>, and the role of <strong>data protection regulations</strong>, which many see as a blocker to collecting, using and sharing personal data.&nbsp;</p><p>The aim of this module is to increase understanding of personal data and techniques that can be applied to ensure the rights of individuals are protected, while maximising the ethical collection, use and sharing of data.</p>",
+    "_id": "6022ae6e7dd851005ec5c773",
+    "_parentId": "6022ae6e7dd851005ec5c766",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6022ae6e7dd851005ec5c774",
+    "_parentId": "6022ae6e7dd851005ec5c766",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "small": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "attribution": "<a href=\"https://www.gatesfoundation.org/\" target=\"_blank\">Bill & Melinda Gates Foundation</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Topics",
+    "displayTitle": "",
+    "body": "<p>This module introduces:</p><ul><li>the differences between personal, sensitive personal, and sensitive commercial data</li><li>the importance of understanding who owns personal data</li><li>the rights of individuals over personal data</li><li>the role of data protection regulations</li><li>the types of data data ethics applies to</li><li>establishing a lawful basis for the ethical collection, use and sharing of (personal) data</li><li>techniques to reduce the risks of handling personal data.</li></ul>",
+    "_id": "6022ae6e7dd851005ec5c775",
+    "_parentId": "6022ae6e7dd851005ec5c767",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Classifying personal and sensitive data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6022ae6e7dd851005ec5c776",
+    "_parentId": "6022ae6e7dd851005ec5c768",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer from the drop downs. When done click 'Submit'",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "A person's name",
+        "_options": [
+          {
+            "text": "Personal",
+            "_isCorrect": true
+          },
+          {
+            "text": "Sensitive personal",
+            "_isCorrect": false
+          },
+          {
+            "text": "Sensitive commercial",
+            "_isCorrect": false
+          },
+          {
+            "text": "Neither personal or sensitive commercial",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "A person's religion",
+        "_options": [
+          {
+            "text": "Personal",
+            "_isCorrect": false
+          },
+          {
+            "text": "Sensitive personal",
+            "_isCorrect": true
+          },
+          {
+            "text": "Sensitive commercial",
+            "_isCorrect": false
+          },
+          {
+            "text": "Neither personal or sensitive commercial",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "A shop's income",
+        "_options": [
+          {
+            "text": "Personal",
+            "_isCorrect": false
+          },
+          {
+            "text": "Sensitive personal",
+            "_isCorrect": false
+          },
+          {
+            "text": "Sensitive commercial",
+            "_isCorrect": true
+          },
+          {
+            "text": "Neither personal or sensitive commercial",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "The location of a weather station",
+        "_options": [
+          {
+            "text": "Personal",
+            "_isCorrect": false
+          },
+          {
+            "text": "Sensitive personal",
+            "_isCorrect": false
+          },
+          {
+            "text": "Sensitive commercial",
+            "_isCorrect": false
+          },
+          {
+            "text": "Neither personal or sensitive commercial",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>As an easy to remember rule, any data or information directly relating to an identifiable individual is personal, including pictures of a person, or group of people.&nbsp;</p><p>Sensitive personal data is that which requires extra protection due to its nature, for example genetic data, health records or data that can potentially be used to discriminate, such as religion, sexual orientation and race.</p><p>Any data not relating to a person, such as the income of a business or the locations of things, is not personal, but it may be deemed commercially sensitive.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>As an easy to remember rule, any data or information directly relating to an identifiable individual is personal, including pictures of a person, or group of people.&nbsp;</p><p>Sensitive personal data is that which requires extra protection due to its nature, for example genetic data, health records or data that can potentially be used to discriminate, such as religion, sexual orientation and race.</p><p>Any data not relating to a person, such as the income of a business or the locations of things, is not personal, but it may be deemed commercially sensitive.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Defining personal, sensitive personal and sensitive commercial data",
+    "displayTitle": "",
+    "body": "<p><strong>Personal data</strong>:&nbsp;Information relating to an identified or identifiable natural person.</p><p><strong>Sensitive personal data</strong>: Personal data that requires extra protection due to its nature, for example genetic data, health records or data that can potentially be used to discriminate.</p><p><strong>Sensitive commercial data</strong>: Non-personal data, such as the income of a business or the locations of things. It is often deemed sensitive as the use and sharing of data may still result in harmful impacts.</p><p><strong>Be aware: </strong>Different countries may also have their own definitions and categories for personal and sensitive personal data, defined by data protection regulations. The data protection regulations of the UK and Europe are used as reference for content presented here.</p>",
+    "_id": "6022ae6e7dd851005ec5c777",
+    "_parentId": "6022ae6e7dd851005ec5c769",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Defining personal, sensitive personal and sensitive commercial data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6022ae6e7dd851005ec5c778",
+    "_parentId": "6022ae6e7dd851005ec5c769",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9ffba5837ae325ab0d8b39fe0d3194c0f6ce25d5.png",
+      "small": "course/en/assets/9ffba5837ae325ab0d8b39fe0d3194c0f6ce25d5.png",
+      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">ODI (Original by CABI)</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Who owns personal data?",
+    "displayTitle": "",
+    "body": "<p>Can you correctly identify the owner of the following?</p>",
+    "_id": "6022ae6e7dd851005ec5c779",
+    "_parentId": "6022ae6e7dd851005ec5c76a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answers from the drop downs. When done click 'Submit'",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "A tweet you write",
+        "_options": [
+          {
+            "text": "You do",
+            "_isCorrect": true
+          },
+          {
+            "text": "Twitter",
+            "_isCorrect": false
+          },
+          {
+            "text": "No one",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Your facebook profile picture",
+        "_options": [
+          {
+            "text": "You do",
+            "_isCorrect": false
+          },
+          {
+            "text": "Facebook",
+            "_isCorrect": false
+          },
+          {
+            "text": "The photographer",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "A feedback survey you conduct",
+        "_options": [
+          {
+            "text": "You do",
+            "_isCorrect": true
+          },
+          {
+            "text": "The people the survey is about",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Providing there is, or has been, an intellectual effort in creating something, the person who put in the effort is the owner of the thing created.</p><p>The tweets you write, photographs you take, spreadsheets you create; these are all owned by you.</p><p>In a case where you interact with a survey, platform or service, the owner of the data created as a result of your interaction will be the service provider, for example the research institute or the social media platform. This is because the intellectual effort in the creation of the survey or service came from the provider, you are simply interacting with it.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Providing there is, or has been, an intellectual effort in creating something, the person who put in the effort is the owner of the thing created.</p><p>The tweets you write, photographs you take, spreadsheets you create; these are all owned by you.</p><p>In a case where you interact with a survey, platform or service, the owner of the data created as a result of your interaction will be the service provider, for example the research institute or the social media platform. This is because the intellectual effort in the creation of the survey or service came from the provider, you are simply interacting with it.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Who owns personal data?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6022ae6e7dd851005ec5c77a",
+    "_parentId": "6022ae6e7dd851005ec5c76a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/eee9292e8d12af1a94073745032c2e26c73e275f.png",
+      "small": "course/en/assets/eee9292e8d12af1a94073745032c2e26c73e275f.png",
+      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">ODI (Original by CABI)</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The importance of understanding who owns personal data",
+    "displayTitle": "",
+    "body": "<p>Not all data about you is your data. In fact you own very little of the data about you. But because personal data is about you, you have rights over it, and this is why we have data protection regulations: to protect the rights of individuals.</p><p>Around the world many countries have been updating data protection regulations to account for people now interacting online. In an increasingly frictionless data world, clear guidance needs to be in place not just on what individuals’ rights to personal data, but also the lawful basis for using, storing and retaining personal data, both within a country and internationally.</p><p>Data protection regulations are not there to prevent data reaching those who need it. They are there to protect the privacy and rights of the people the data is about.</p>",
+    "_id": "6022ae6e7dd851005ec5c77b",
+    "_parentId": "6022ae6e7dd851005ec5c76b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The importance of understanding who owns personal data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6022ae6e7dd851005ec5c77c",
+    "_parentId": "6022ae6e7dd851005ec5c76b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/eee9292e8d12af1a94073745032c2e26c73e275f.png",
+      "small": "course/en/assets/eee9292e8d12af1a94073745032c2e26c73e275f.png",
+      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">ODI (Original by CABI)</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The rights of individuals over personal data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6022ae6e7dd851005ec5c77d",
+    "_parentId": "6022ae6e7dd851005ec5c76c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Right to be informed",
+        "body": "<p>Individuals have the right to be informed about how personal data about them is collected and used. This information should be presented in a ‘privacy notice’. This should be presented to the individual when data is collected, in clear, concise language, and in a way that is easily accessible.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to access (subject access requests)",
+        "body": "<p>The right to access gives people the right to request a copy of the personal information an individual or organisation (the data controller) holds about them. There are exceptions to this, such as when that personal information is being used for criminal proceedings or sensitive legal obligations.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to rectification",
+        "body": "<p>Individuals have the right to have personal data corrected if it is inaccurate or incomplete. The data controller also has responsibilities to ensure the data is corrected if it is shared with others.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to be forgotten",
+        "body": "<p>The right to be forgotten (or the right to data erasure) entitles an individual to direct the data controller to erase personal data about them, cease further sharing of the data, and, potentially, halt processing of the data by third parties.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to restrict processing",
+        "body": "<p>Individuals have a right to ‘block’ or suppress processing of personal data.&nbsp;</p><p>Such rights can be exercised when:</p><ul><li>the accuracy of the personal data is contested</li><li>where the individual has objected to the processing (only in the case of performance of a public task or legitimate interest)</li><li>the processing is unlawful</li><li>the data is needed for future reference but should no longer be processed.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to data portability",
+        "body": "<p>Individuals can request that personal data about them be transferred directly to another controller. To this point, we have only seen the financial sector adopt the right to data portability as a way to build better banking services.&nbsp;The global <a href=\"https://en.wikipedia.org/wiki/Open_banking\" target=\"_blank\">open banking</a>&nbsp;initiative allows customers to directly transfer personal data between financial service providers, meaning you can change banks without having to fill in endless forms.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to object or withdraw consent",
+        "body": "<p>If the lawful basis for processing data is based on having consent, the individual has the right to withdraw that consent at any time. The process of withdrawing consent must be as easy as giving consent in the first place. If a different lawful basis other than consent is being used as the basis for processing personal data, individuals may have the right to object to that processing.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to not be subject solely to automated decision making",
+        "body": "<p>Individuals have the right to not be subject to a decision based solely on automated processing, including profiling. In all cases individuals must be informed about the automated processing and be able to request human intervention or challenge a decision.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The role of data protection regulations",
+    "displayTitle": "",
+    "body": "<p>Generally, data protection regulations set out the following:&nbsp;</p><ol><li>Definitions of personal and sensitive personal data</li><li>Geographic restrictions relating specifically to personal data</li><li>The lawful basis under which personal data can be processed</li><li>The rights of individuals over personal data about them</li><li>The responsibilities of data controllers in relation to personal data</li></ol>",
+    "_id": "6022ae6e7dd851005ec5c77e",
+    "_parentId": "6022ae6e7dd851005ec5c76d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The role of data protection regulations",
+    "displayTitle": "",
+    "body": "<p>Different countries have their own data protection legislation, which enable personal data to be used while protecting the rights of individuals. The most important thing to remember is that personal data cannot be collected or processed without a lawful basis; if no lawful basis applies then it is illegal to hold the personal data.</p><p>A lawful basis is often detailed as part of the data governance and privacy impact assessments made by an organisation, and should also be clear to individuals as part of the organisation’s privacy notice.</p><p>Once the lawful basis is established, all other aspects, such as rights of individuals, will be matched to this.</p>",
+    "_id": "6022ae6e7dd851005ec5c77f",
+    "_parentId": "6022ae6e7dd851005ec5c76d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Techniques to reduce the risks of handling personal data",
+    "displayTitle": "",
+    "body": "<p>What steps can be taken to reduce the risks of handling personal data?</p>",
+    "_id": "6022ae6e7dd851005ec5c780",
+    "_parentId": "6022ae6e7dd851005ec5c76f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select three answers then click 'submit'",
+    "_items": [
+      {
+        "text": "Avoid the problem by not collecting personal data in the first place",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Anonymise the data, removing any personal information",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Delete the personal information, or create a synthetic dataset of fictional people",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Don’t tell anyone you that you have personal data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Store the data in a country with weaker data protection regulations",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Personal data should only be collected and stored if it is absolutely necessary to fulfil the lawful basis. If you don’t need it, don’t collect it. The same applies to retaining personal data.&nbsp;</p><p>As an alternative to deleting data, anonymisation techniques could be applied that remove any personal data that can identify a specific individual.&nbsp;</p><p>Alternatively you could consider creating a synthetic dataset. A synthetic dataset contains many of the statistical patterns of an original dataset, but does not refer to identifiable individuals (for example it contains fictional people), thereby reducing the risk of re-identification.</p><p>Trying to hide the data – or storing it in a different country – &nbsp;are not solutions as data protection laws apply where an organisation has its principal place of business, regardless of where the data is stored.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Personal data should only be collected and stored if it is absolutely necessary to fulfil the lawful basis. If you don’t need it, don’t collect it. The same applies to retaining personal data.&nbsp;</p><p>As an alternative to deleting data, anonymisation techniques could be applied that remove any personal data that can identify a specific individual.&nbsp;</p><p>Alternatively you could consider creating a synthetic dataset. A synthetic dataset contains many of the statistical patterns of an original dataset, but does not refer to identifiable individuals (for example it contains fictional people), thereby reducing the risk of re-identification.</p><p>Trying to hide the data – or storing it in a different country – &nbsp;are not solutions as data protection laws apply where an organisation has its principal place of business, regardless of where the data is stored.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Techniques to reduce the risks of handling personal data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6022ae6e7dd851005ec5c781",
+    "_parentId": "6022ae6e7dd851005ec5c76f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9997af353089f5df1d3ff372c0b8e3bfa8f7692d.png",
+      "small": "course/en/assets/9997af353089f5df1d3ff372c0b8e3bfa8f7692d.png",
+      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">ODI (Original by CABI)</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data protection and anonymised/synthetic data",
+    "displayTitle": "",
+    "body": "<p>Do data protection regulations apply to anonymised or synthetic data?</p>",
+    "_id": "6022ae6e7dd851005ec5c782",
+    "_parentId": "6022ae6e7dd851005ec5c770",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Yes",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "No",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Once the data is anonymised, data protection regulations no longer apply and data can be shared with others safely, even outside the geographical boundaries that may be imposed by data protection regulations.</p><p>However, this does not mean that the retention, use and sharing (or not sharing) of the data will be ethical, even if it is legal.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Once the data is anonymised, data protection regulations no longer apply and data can be shared with others safely, even outside the geographical boundaries that may be imposed by data protection regulations.</p><p>However, this does not mean that the retention, use and sharing (or not sharing) of the data will be ethical, even if it is legal.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data protection and anonymised/synthetic data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6022ae6e7dd851005ec5c783",
+    "_parentId": "6022ae6e7dd851005ec5c770",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b3e6fdcce5bd3678fab6a0470ea475e1dbdd04ed.png",
+      "small": "course/en/assets/b3e6fdcce5bd3678fab6a0470ea475e1dbdd04ed.png",
+      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">ODI (Original by CABI)</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Concerns over collecting, using and sharing personal data often results in data not getting to those who need it. The challenge starts with understanding just what personal data is, the difference between this and sensitive commercial data, and the role of data protection regulations, which many see as a blocker to sharing personal data.</p><p>Increasing understanding of personal data, data protection regulations and techniques that can be applied, minimises the risks of handling personal data. This is essential to ensure investments protect the rights of individuals, while maximising the ethical collection, use and sharing of data.</p>",
+    "_id": "6022ae6e7dd851005ec5c784",
+    "_parentId": "6022ae6e7dd851005ec5c771",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6022ae6e7dd851005ec5c785",
+    "_parentId": "6022ae6e7dd851005ec5c771",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Classifying personal and sensitive data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6022ae6e7dd851005ec5c786",
+    "_parentId": "6022ae6e7dd851005ec5c768",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9ffba5837ae325ab0d8b39fe0d3194c0f6ce25d5.png",
+      "small": "course/en/assets/9ffba5837ae325ab0d8b39fe0d3194c0f6ce25d5.png",
+      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">ODI (Original by CABI)</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The rights of individuals over personal data",
+    "displayTitle": "",
+    "body": "<p>Regardless of how data is collected or processed, individuals have the right to be informed about how data about them is processed and for what purpose. Further, this must be specific. ‘Privacy notices’ stating that personal data is used to ‘improve the level of service’ are no longer valid under modern data protection regulations, as they are not specific.</p><p>Additionally the following rights are emerging globally, both within data protection regulations and also as best practice, even when relating to non-personal data.</p>",
+    "_id": "6022ae6e7dd851005ec5c787",
+    "_parentId": "6022ae6e7dd851005ec5c76c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Supporting tools and guides",
+    "displayTitle": "Supporting tools and guides",
+    "body": "<p dir=\"ltr\"><strong><a href=\"https://theodi.org/article/anonymising-data-in-times-of-crisis/\" target=\"_blank\">Anonymising data in times of crisis – The ODI</a></strong></p><p dir=\"ltr\"><strong><a href=\"https://theodi.org/article/anonymisation-and-synthetic-data-towards-trustworthy-data/\" target=\"_blank\">Anonymisation and synthetic data: towards trustworthy data – The ODI</a></strong></p><p dir=\"ltr\"><strong><a href=\"https://odileeds.org/blog/2019-02-01-anonimisation-and-re-identification\" target=\"_blank\">Anonymisation and re-identification - ODI Leeds</a>&nbsp;</strong></p><p dir=\"ltr\"><strong><a href=\"https://github.com/theodi/synthetic-data-tutorial\" target=\"_blank\">theodi/synthetic-data-tutorial: A hands-on tutorial showing how to use Python to do anonymisation with synthetic data - The ODI</a></strong></p>",
+    "_id": "6022ae6e7dd851005ec5c788",
+    "_parentId": "6022ae6e7dd851005ec5c76e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Knowing your rights",
+    "displayTitle": "",
+    "body": "<p>Under modern data protection regulations, such as the General Data Protection Regulation (GDPR), what rights do individuals have over data about them?</p>",
+    "_id": "6022ae6e7dd851005ec5c789",
+    "_parentId": "6022ae6e7dd851005ec5c772",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "The right to be informed how data about them is processed",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The right to access data about them",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The right to object or withdraw consent",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Regardless of how data is collected or processed, individuals have the right to be informed about how data about them is processed, and for what purpose.&nbsp;</p><p>In many situations, especially where consent is used as a lawful basis for processing personal data, individuals also have the right to access, rectify or even object to data about them being stored and processed.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Regardless of how data is collected or processed, individuals have the right to be informed about how data about them is processed, and for what purpose.&nbsp;</p><p>In many situations, especially where consent is used as a lawful basis for processing personal data, individuals also have the right to access, rectify or even object to data about them being stored and processed.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Knowing your rights",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6022ae6e7dd851005ec5c78a",
+    "_parentId": "6022ae6e7dd851005ec5c772",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7e71023ece7810e9bd82923eef280c0ff401f1a0.png",
+      "small": "course/en/assets/7e71023ece7810e9bd82923eef280c0ff401f1a0.png",
+      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">ODI (Original by CABI)</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Establishing a lawful basis for the ethical collection, use and sharing of (personal) data",
+    "displayTitle": "",
+    "body": "<p>Can you establish the lawful basis for the following:</p>",
+    "_id": "6037b1d92fc9a20067b6be33",
+    "_parentId": "6037b1d92fc9a20067b6be32",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answers from the drop downs. When done click 'submit'",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Sharing data on vulnerable people with supermarkets to prioritise home delivery of food and essential supplies to those shielding from a pandemic.",
+        "_options": [
+          {
+            "text": "Legal obligation",
+            "_isCorrect": false
+          },
+          {
+            "text": "Performance of contract",
+            "_isCorrect": false
+          },
+          {
+            "text": "Legitimate interest",
+            "_isCorrect": true
+          },
+          {
+            "text": "Consent",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Checking a person's age before allowing them to purchase alcohol or other age-restricted goods.",
+        "_options": [
+          {
+            "text": "Legal obligation",
+            "_isCorrect": true
+          },
+          {
+            "text": "Performance of contract",
+            "_isCorrect": false
+          },
+          {
+            "text": "Legitimate interest",
+            "_isCorrect": false
+          },
+          {
+            "text": "Consent",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Collecting personal information to enrol someone on a certified educational programme.",
+        "_options": [
+          {
+            "text": "Legal obligation",
+            "_isCorrect": false
+          },
+          {
+            "text": "Performance of contract",
+            "_isCorrect": true
+          },
+          {
+            "text": "Legitimate interest",
+            "_isCorrect": false
+          },
+          {
+            "text": "Consent",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Using the personal details collected above to send future marketing for other educational programmes.",
+        "_options": [
+          {
+            "text": "Legal obligation",
+            "_isCorrect": false
+          },
+          {
+            "text": "Performance of contract",
+            "_isCorrect": false
+          },
+          {
+            "text": "Legitimate interest",
+            "_isCorrect": false
+          },
+          {
+            "text": "Consent",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">Not everything needs a person’s consent. The provision of many services is covered under the performance of contract with the consumer or legal obligations (or public duties) with which the provider has to abide.</p><p dir=\"ltr\">Deciding if vital or legitimate interest applies relies on being proportionate – if something feels excessive from the public’s point of view, then it probably is. The&nbsp;<a href=\"https://ico.org.uk/global/data-protection-and-coronavirus-information-hub/coronavirus-recovery-data-protection-advice-for-organisations/\" target=\"_blank\">Information Commissioner's Office in the UK</a> provides some excellent guidance on this.&nbsp;</p><p>Considering carefully the ethics of your reasons for collecting, using and sharing (or not sharing) the data will help you decide if such a basis can apply.&nbsp;</p><p>Regardless of the lawful basis, it is always a good idea to keep people informed about how data will be collected, used and shared, be that via a privacy notice (if using personal information) or via other means.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Not everything needs a person’s consent. The provision of many services is covered under the performance of contract with the consumer or legal obligations (or public duties) with which the provider has to abide.</p><p dir=\"ltr\">Deciding if vital or legitimate interest applies relies on being proportionate – if something feels excessive from the public’s point of view, then it probably is. The&nbsp;<a href=\"https://ico.org.uk/global/data-protection-and-coronavirus-information-hub/coronavirus-recovery-data-protection-advice-for-organisations/\" target=\"_blank\">Information Commissioner's Office in the UK</a> provides some excellent guidance on this.&nbsp;</p><p>Considering carefully the ethics of your reasons for collecting, using and sharing (or not sharing) the data will help you decide if such a basis can apply.&nbsp;</p><p>Regardless of the lawful basis, it is always a good idea to keep people informed about how data will be collected, used and shared, be that via a privacy notice (if using personal information) or via other means.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Establishing a lawful basis for the ethical collection, use and sharing of (personal) data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6037b1d92fc9a20067b6be34",
+    "_parentId": "6037b1d92fc9a20067b6be32",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/eee9292e8d12af1a94073745032c2e26c73e275f.png",
+      "small": "course/en/assets/eee9292e8d12af1a94073745032c2e26c73e275f.png",
+      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">ODI (Original by CABI)</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The types of data that data ethics applies to",
+    "displayTitle": "",
+    "body": "<p>The collection use or sharing of which types of data can lead to unethical outcomes?</p>",
+    "_id": "60535f5c057e0e008861ea07",
+    "_parentId": "60535f5c057e0e008861ea06",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answers then click 'submit'",
+    "_items": [
+      {
+        "text": "Personal data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Personal data and sensitive personal data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Sensitive commercial data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All personal and sensitive commercial data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>That’s right. Data ethics should focus on the impact on people as a result of collecting, using and sharing (or not sharing) any type of data, not just personal data. For example, it was discovered that many lower-income areas and predominantly ethnic minority areas were deprived of PokeStops in the PokemonGo game due to lack of geographical points of interest in these areas.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>That’s right. Data ethics should focus on the impact on people as a result of collecting, using and sharing (or not sharing) any type of data, not just personal data. For example, it was discovered that many lower-income areas and predominantly ethnic minority areas were deprived of PokeStops in the PokemonGo game due to lack of geographical points of interest in these areas.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The types of data that data ethics applies to",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60535f5c057e0e008861ea08",
+    "_parentId": "60535f5c057e0e008861ea06",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/85453508e23ceb3b89e52149f5115dcc27919dab.png",
+      "small": "course/en/assets/85453508e23ceb3b89e52149f5115dcc27919dab.png",
+      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">ODI (Original by CABI)</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  }
+]
