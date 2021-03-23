@@ -1,0 +1,1173 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What to do when things are unclear",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60545dfcbbe7b9008a29d078",
+    "_parentId": "60545dfcbbe7b9008a29d069",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/14ae5fc5253ac020d9fe5efc90c59100e10f2263.png",
+      "small": "course/en/assets/14ae5fc5253ac020d9fe5efc90c59100e10f2263.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Considerations when working with data from multiple third parties",
+    "displayTitle": "Considerations when working with data from multiple third parties",
+    "body": "<p>Even when you have established what permissions you have to reuse a single dataset, things can get complex when you wish to combine datasets together.</p><p>Each dataset might set out incompatible terms and conditions, for example requiring data to be available for commercial reuse or explicitly blocking it. Other conflicts may be related to embargo periods during which time data is not openly available.</p><p>Concessions may have to be sought from one or more of the parties involved. Generally speaking, the more open the terms, the more likely it is that data from third parties will be reusable by others without having to enter into complex negotiations.</p>",
+    "_id": "60545dfcbbe7b9008a29d079",
+    "_parentId": "60545dfcbbe7b9008a29d06a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Establishing the suitability of data prior to access and reuse",
+    "displayTitle": "",
+    "body": "<p><strong>Establishing impact of existing legal and ethical frameworks:</strong></p><ul><li>Does the data contain personal or sensitive information? Under what lawful basis would your reuse be allowed? What responsibilities will you have for this dataset?</li><li>Can you establish the existing legal and regulatory frameworks that affect the data?</li></ul><p><strong>Potential limitations in the data itself:</strong></p><ul><li>Check the coverage. How was the data sampled? Are there any obvious biases or gaps in the data?</li><li>Is there a quality-control process for the data? What impact will it have on the reusability of data?</li><li>Is there any documentation on limitations of the data, for example errors in sampling, acceptable error rates and ranges etc?</li></ul>",
+    "_id": "60545dfcbbe7b9008a29d07a",
+    "_parentId": "60545dfcbbe7b9008a29d06b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Data increases in value the more it is connected. This is because allowing data to be collected, used and shared means it can be utilised for a number of purposes.</p><p>However, before any data can be collected, used or shared it is important to understand:</p><ul><li>who owns the data</li><li>who has rights over the data</li><li>and what permissions you have in relation to the data.&nbsp;</li></ul><p>Projects that set out with good intentions to reuse existing data often encounter legal and ethical constraints which should be addressed as soon as possible.</p><p>It is important to spend time carefully considering and documenting each data source prior to ploughing ahead with its use in a project.</p>",
+    "_id": "60545dfcbbe7b9008a29d07b",
+    "_parentId": "60545dfcbbe7b9008a29d06d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60545dfcbbe7b9008a29d07c",
+    "_parentId": "60545dfcbbe7b9008a29d06d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A spectrum of data permissions",
+    "displayTitle": "A spectrum of data permissions",
+    "body": "<p>To help explain the complex landscape of data access and associated rights and permissions, the Open Data Institute (ODI) has produced the ‘Data Spectrum’ which neatly illustrates the different types of data, from closed, through shared, to open.</p>",
+    "_id": "60545dfcbbe7b9008a29d07d",
+    "_parentId": "60545dfcbbe7b9008a29d067",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on the pins to find out more about each type of data",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/ed7b55ee96ce4f250a50007d5173ab1df16685c5.png",
+      "alt": "",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Closed / Limited data",
+        "_ariaLevel": 0,
+        "body": "<p>Closed data covers data that is only available to a few individuals. Data should be closed if doing so is necessary to minimise harmful impacts on people. Examples of closed data include sensitive legal documents, employment contracts and personal health records. Permissions attached to reusing closed data are likely to be very restrictive in order to ensure harmful impacts are minimised.</p><p>Examples of closed data: List of every employees’ salary</p>",
+        "strapline": "Closed / Limited data",
+        "_graphic": {
+          "src": "course/en/assets/c653a75c0723450d17c04f8cf8a25ca22c7fb377.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "_classes": "spectrum-marker"
+        },
+        "_pin": {
+          "src": "course/en/assets/1a5bd059ba30b4419e1b7792b5f5508edb0567bc.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 15.8,
+        "_top": 56
+      },
+      {
+        "title": "Shared data",
+        "_ariaLevel": 0,
+        "body": "<p>Shared data is the largest category and covers everything from medical research data to social network data. In this category, permissions on who can access and use data are often restricted (for example non-commercial use only). These restrictions can again be necessary to minimise harmful impacts or may be in place to preserve commercial advantage. Reusing shared data will often come with the same restrictions and limit potential reuse and subsequent sharing.&nbsp;</p><p>Examples of shared data: Medical trial data</p>",
+        "strapline": "Shared data",
+        "_graphic": {
+          "src": "course/en/assets/fd837fbc66bc4380b0b558e3c522f0743a010a71.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "_classes": "spectrum-marker"
+        },
+        "_pin": {
+          "src": "course/en/assets/70fa75b4d5d615c7543f3231c987dc8b5cd2bec0.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 41.1,
+        "_top": 56
+      },
+      {
+        "title": "Public data",
+        "_ariaLevel": 0,
+        "body": "<p>Public data covers all data that is visible to everyone but with limited or unclear rights. As with the question previously, just because something is visible online, that doesn't mean you can freely make use of it. To reuse public data, it may be necessary to approach the rights holder to establish if it can be reused freely or if there will be restrictions as per shared data.&nbsp;</p><p>Examples of public data: People’s tweets</p>",
+        "strapline": "Public data",
+        "_graphic": {
+          "src": "course/en/assets/77a03d871f7cea023d2fb6e752f5afddd5e2b2c7.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "_classes": "spectrum-marker"
+        },
+        "_pin": {
+          "src": "course/en/assets/7f8e13faf6a874636206bd20148fcd7b2274bc6c.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 61,
+        "_top": 56
+      },
+      {
+        "title": "Open data",
+        "_ariaLevel": 0,
+        "body": "<p>Open data is data that anyone can access, use and share, and that is published under an open licence. Providing the reuse is legal, open data can be reused without restriction and shared with others.</p><p>Examples of open data: Earth observations</p>",
+        "strapline": "Open data",
+        "_graphic": {
+          "src": "course/en/assets/60ed051578a0c26b44b280c2870416639e19c13a.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "_classes": "spectrum-marker"
+        },
+        "_pin": {
+          "src": "course/en/assets/da478e38f09d40d96e76a18215868cf57e79935c.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 79.5,
+        "_top": 56
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying open, shared and closed data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60545dfcbbe7b9008a29d07f",
+    "_parentId": "60545dfcbbe7b9008a29d06f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e40bf61232584d283ff22d7041490356728f382b.png",
+      "small": "course/en/assets/e40bf61232584d283ff22d7041490356728f382b.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying open, shared and closed data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60545dfcbbe7b9008a29d080",
+    "_parentId": "60545dfcbbe7b9008a29d06f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Dataset available for research purposes only, cannot be used commercially",
+        "_options": [
+          {
+            "text": "Closed / Limited",
+            "_isCorrect": false
+          },
+          {
+            "text": "Shared",
+            "_isCorrect": true
+          },
+          {
+            "text": "Public",
+            "_isCorrect": false
+          },
+          {
+            "text": "Open",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Data available to original research team only",
+        "_options": [
+          {
+            "text": "Closed / Limited",
+            "_isCorrect": true
+          },
+          {
+            "text": "Shared",
+            "_isCorrect": false
+          },
+          {
+            "text": "Public",
+            "_isCorrect": false
+          },
+          {
+            "text": "Open",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Dataset available to download as a Microsoft Excel file",
+        "_options": [
+          {
+            "text": "Closed / Limited",
+            "_isCorrect": false
+          },
+          {
+            "text": "Shared",
+            "_isCorrect": false
+          },
+          {
+            "text": "Public",
+            "_isCorrect": true
+          },
+          {
+            "text": "Open",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Dataset available for anyone to download and use, can even be used to develop revenue generating applications",
+        "_options": [
+          {
+            "text": "Closed / Limited",
+            "_isCorrect": false
+          },
+          {
+            "text": "Shared",
+            "_isCorrect": false
+          },
+          {
+            "text": "Public",
+            "_isCorrect": false
+          },
+          {
+            "text": "Open",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">The more open the dataset, the less constraints there are to reuse. If datasets are not open, then some negotiation may be required with the rights holder. This could include helping the rights owners to address any concerns they have related to data sharing or to set up a <a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a>.&nbsp;</p><p dir=\"ltr\">Additionally, reuse is highly likely to be impacted by the most restrictive licence under which data is obtained from a third party. For example, if you combine two open datasets with one available under a non-commercial restriction, then the reuse of the resultant combined data is limited to non-commercial use. Care should be taken to ensure source datasets are as open as possible – <em>and as closed as necessary</em> – to minimise harmful impacts.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">The more open the dataset, the less constraints there are to reuse. If datasets are not open, then some negotiation may be required with the rights holder. This could include helping the rights owners to address any concerns they have related to data sharing or to set up a <a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a>.&nbsp;</p><p dir=\"ltr\">Additionally, reuse is highly likely to be impacted by the most restrictive licence under which data is obtained from a third party. For example, if you combine two open datasets with one available under a non-commercial restriction, then the reuse of the resultant combined data is limited to non-commercial use. Care should be taken to ensure source datasets are as open as possible – <em>and as closed as necessary</em> – to minimise harmful impacts.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Obtaining permission to reuse third party data",
+    "displayTitle": "Obtaining permission to reuse third party data",
+    "body": "<p>By default, anything that involves an ‘intellectual effort’ in its creation is copyright protected; the creator has exclusive rights to that creation. For anyone else to reuse that creation they must be given permission from the rights holder (in this case the creator).</p><p>Such permissions usually come in the form of <strong>data sharing agreements</strong> or <strong>licences</strong>. It is important to ensure that permissions to access, use and share data are clear. Clarity comes from having explicit licences and agreements to use third-party content, and understanding relevant legal restrictions or permissions.</p>",
+    "_id": "60545dfcbbe7b9008a29d081",
+    "_parentId": "60545dfcbbe7b9008a29d06c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What to do when things are unclear",
+    "displayTitle": "",
+    "body": "<p>If datasets are not open, then some negotiation may be required. This could include helping data holders to address any concerns they have related to data sharing or setting up a data sharing agreement.</p><p>In some cases, the reuse permissions related to a dataset might be unclear and a rights holder not listed. Following investigation you might even be bounced between people and get nowhere.</p><p dir=\"ltr\">In this situation, data may still be usable for example, if its use is covered by a <a href=\"https://en.wikipedia.org/wiki/Fair_use\" target=\"_blank\">fair use</a> (or <a href=\"https://en.wikipedia.org/wiki/Fair_dealing\" target=\"_blank\">fair dealing</a>) exception or other local law.</p><p>If this is not the case, then a risk-based decision could be made over the collection, use and sharing of the data. Taking into consideration what may be considered fair, proportionate and ethical use of such data may well play a large part of the risk-based decision.</p><p>This must be done with the understanding that the rights holder could reemerge and it may be necessary to backtrack, negotiate continued use, or potentially face a legal challenge.</p>",
+    "_id": "60545dfcbbe7b9008a29d082",
+    "_parentId": "60545dfcbbe7b9008a29d069",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Establishing the suitability of data prior to access and reuse",
+    "displayTitle": "",
+    "body": "<p><strong>Examining the environment surrounding the data:</strong></p><ul><li>Clarifying the purpose for the data collection; is this clearly articulated and will the purpose have any significant impact on the potential reuse?</li><li>Who collects and manages the data? What type of personas are involved and are diverse groups represented? Will the data collection/management be affected by targets? Are the people involved in the data collection/generation suitably knowledgeable and skilled in the domain, for example, are you asking the public to self-diagnose health conditions?</li><li>How has the data been used before? Are there any lessons to be learned from previous good and bad uses of the data in question?</li></ul>",
+    "_id": "60545dfcbbe7b9008a29d083",
+    "_parentId": "60545dfcbbe7b9008a29d06b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>Data increases in value the more it is connected. This is because allowing data to be collected, used and shared means it can be utilised for a number of purposes.</p><p>However, before any data can be collected, used or shared, it is important to understand who owns what data, who has rights over it and what permissions or responsibilities you or others have in relation to the data. Projects that set out with good intentions to reuse existing data often encounter legal and ethical constraints which should be addressed as soon as possible.</p><p>This module looks at spectrum of data and how permission is granted and/or obtained to integrate, analyse and otherwise reuse data.</p>",
+    "_id": "60545dfcbbe7b9008a29d08a",
+    "_parentId": "60545dfcbbe7b9008a29d073",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60545dfcbbe7b9008a29d08b",
+    "_parentId": "60545dfcbbe7b9008a29d073",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "small": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "attribution": "<a href=\"https://www.gatesfoundation.org/\" target=\"_blank\">Bill & Melinda Gates Foundation</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Topics",
+    "displayTitle": "",
+    "body": "<p>This module introduces:</p><ul><li>the value of reusing data from third-party sources</li><li>the importance of rights and permissions in data</li><li>a spectrum of data rights</li><li>identifying open, shared and closed data</li><li>obtaining rights to reuse third party data</li><li>what to do when things are unclear</li><li>considerations when working with data from multiple third parties</li><li>establishing the suitability of data prior to access and reuse</li><li>a decision-making flowchart for reusing data from third-party sources.</li></ul>",
+    "_id": "60545dfcbbe7b9008a29d08c",
+    "_parentId": "60545dfcbbe7b9008a29d074",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The value of reusing data from third party sources",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60545dfcbbe7b9008a29d08d",
+    "_parentId": "60545dfcbbe7b9008a29d075",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/eb5cd6570fd7aab8290f2e33160a04f9f3e95c4b.png",
+      "small": "course/en/assets/eb5cd6570fd7aab8290f2e33160a04f9f3e95c4b.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The value of reusing data from third party sources",
+    "displayTitle": "",
+    "body": "<p>Why use data from third party sources?</p>",
+    "_id": "60545dfcbbe7b9008a29d08e",
+    "_parentId": "60545dfcbbe7b9008a29d075",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select two answers then click 'submit'",
+    "_items": [
+      {
+        "text": "Saves time in collecting data that already exists",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Third parties may already be aware of the limitations and potential ethical issues surrounding the data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Allows you to claim ownership and recognition for someone else's work",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Many digital services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and reuse. Additionally, building on top of existing data saves significant time in collecting data that already exists.&nbsp;</p><p>Building good relationships with data holders also means that you can build upon and take advantage of existing activities and communities around the data to support your aims. Further, the data owners and communities connected to the data may be already well informed about the potential limitations and ethical challenges surrounding the data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Many digital services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and reuse. Additionally, building on top of existing data saves significant time in collecting data that already exists.&nbsp;</p><p>Building good relationships with data holders also means that you can build upon and take advantage of existing activities and communities around the data to support your aims. Further, the data owners and communities connected to the data may be already well informed about the potential limitations and ethical challenges surrounding the data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The importance of rights and permissions in data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60545dfcbbe7b9008a29d091",
+    "_parentId": "60545dfcbbe7b9008a29d077",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5a7653b1d9082907c1a0ea4731a2b7419229ee00.png",
+      "small": "course/en/assets/5a7653b1d9082907c1a0ea4731a2b7419229ee00.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The importance of rights and permissions in data",
+    "displayTitle": "",
+    "body": "<p>All data available on the web is open and free to use. True or false?</p>",
+    "_id": "60545dfcbbe7b9008a29d092",
+    "_parentId": "60545dfcbbe7b9008a29d077",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Just because something can be accessed over the internet does not mean that it is free to use. For example, it is easy to screenshot or download company logos but these cannot then simply be used freely by anyone – the owner must grant permission for use – unless it is published under a licence that allows reuse.</p><p>The same is true for other types of data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Just because something can be accessed over the internet does not mean that it is free to use. For example, it is easy to screenshot or download company logos but these cannot then simply be used freely by anyone – the owner must grant permission for use – unless it is published under a licence that allows reuse.</p><p>The same is true for other types of data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Characteristics of data-sharing agreements",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60546312bbe7b9008a29d0bd",
+    "_parentId": "60546312bbe7b9008a29d0bc",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ce1be83f31db69b2039b4372f70be3fe12eecc2c.png",
+      "small": "course/en/assets/ce1be83f31db69b2039b4372f70be3fe12eecc2c.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Characteristics of data-sharing agreements",
+    "displayTitle": "",
+    "body": "<p>Data-sharing agreements are usually contracts that will have been signed between two or more organisations sharing data. They set out the purpose and legal basis for sharing data as well as setting out how, when, where, and for how long, data will be shared. &nbsp;</p><p>Data-sharing agreements are most useful when organisations, of any kind, are sharing data, with detailed, binding rules about what each side may do and must do. This is useful in high-risk situations where the data is commercially sensitive, personal, or where there is judged to be significant ethical or reputational risk.&nbsp;</p><p>Data-sharing agreements help everyone involved to be clear on their obligations and specify roles and responsibilities. Responsibilities could also include the requirement for a specific organisation or organisations within the agreement to make a version of the dataset available openly for others to use, setting requirements to remove or suppress sensitive and personal data before doing so.</p>",
+    "_id": "60546312bbe7b9008a29d0c0",
+    "_parentId": "60546312bbe7b9008a29d0bc",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Characteristics of data licences",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6054633fbbe7b9008a29d0c3",
+    "_parentId": "6054633fbbe7b9008a29d0c2",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/12381c28585f3113e49ba6ccff34ce6efc310209.png",
+      "small": "course/en/assets/12381c28585f3113e49ba6ccff34ce6efc310209.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Characteristics of data licences",
+    "displayTitle": "",
+    "body": "<p>A data licence describes the ways that data can be used without any of the organisations involved having to enter into a formal agreement.</p><p>It differs from a data sharing agreement in the following ways:</p><ul><li>Permission is granted in advance, rather than when somebody asks for access</li><li>Permission is not time-limited: there is no start and end date</li><li>Rather than naming specific people or organisations, it applies to everyone (as long as they abide by the licence terms)</li><li>A user does not typically sign an data licence</li><li>It usually contains at most three sets of conditions:<ul><li>What must be done by the user</li><li>What can be done by the user</li><li>What cannot be done by the user</li></ul></li></ul>",
+    "_id": "6054633fbbe7b9008a29d0c6",
+    "_parentId": "6054633fbbe7b9008a29d0c2",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common data licences",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6054638fbbe7b9008a29d0c9",
+    "_parentId": "6054638fbbe7b9008a29d0c8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c22bef157d6876c4077a62a8063c9f174c173f37.png",
+      "small": "course/en/assets/c22bef157d6876c4077a62a8063c9f174c173f37.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common data licences",
+    "displayTitle": "",
+    "body": "<p>There are a number of common data licences to look out for when considering reusing data from third parties:</p>",
+    "_id": "605463aebbe7b9008a29d0cd",
+    "_parentId": "6054638fbbe7b9008a29d0c8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Creative Commons licences",
+        "body": "<p dir=\"ltr\">Creative Commons licences are widely used for open content. Version 4.0 explicitly considers data licensing.</p><p dir=\"ltr\">There are three Creative Commons versions of an open licence:</p><ul><li dir=\"ltr\"><p dir=\"ltr\"><strong><a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">Public domain: (CC0)</a></strong></p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong><a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">Attribution: (CC-BY v4.0)</a></strong></p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong><a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Attribution &amp; share-alike: (CC-BY-SA v4.0)</a></strong></p></li></ul><p dir=\"ltr\">Public domain and attribution licences give most flexibility in the use of data, while a share-alike licence may limit the commercial use of the data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open government licences",
+        "body": "<p dir=\"ltr\">Many governments have adopted their own official licences for data. Most of these are heavily based upon, and sometimes even direct derivatives of, the Creative Commons licences. This makes them compatible with each other, meaning data can be widely reused and remixed with other datasets available under the same terms.&nbsp;</p><p dir=\"ltr\">The <a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">UK</a>, <a href=\"https://www.etalab.gouv.fr/licence-ouverte-open-licence\" target=\"_blank\">French</a> and <a href=\"https://open.canada.ca/en/open-government-licence-canada\" target=\"_blank\">Canadian</a> governments are just a few examples of governments around the globe that have adopted open data licences.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Bespoke licences",
+        "body": "<p>Bespoke licences can be created or adapted from a standard licence through the addition of new conditions and/or the modification of existing ones.</p><p>A bespoke licence will likely introduce specific conditions with which the user must comply. They may introduce specific conditions that limit usage, restrict data integration and, in some cases, are difficult for users to comply with.</p><p>Such licences are often used when there are third-party rights in the data that must be passed on to any data reusers downstream.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Obtaining permission to reuse third party data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6054720fbbe7b9008a29d0cf",
+    "_parentId": "60545dfcbbe7b9008a29d06c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c2d3b656ab6d896a9f3815cf14c378c987b3c2d7.png",
+      "small": "course/en/assets/c2d3b656ab6d896a9f3815cf14c378c987b3c2d7.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A decision making flowchart for using data from third party sources",
+    "displayTitle": "A decision making flowchart for using data from third party sources",
+    "body": "",
+    "_id": "605474c6bbe7b9008a29d0d6",
+    "_parentId": "605474c6bbe7b9008a29d0d5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1f9d45cbc9acc5d18c7d33dddcbecdbb4baebd0f.png",
+      "small": "course/en/assets/1f9d45cbc9acc5d18c7d33dddcbecdbb4baebd0f.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  }
+]
