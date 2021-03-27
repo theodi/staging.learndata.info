@@ -30,7 +30,7 @@
       "_notify": 1
     }
   },
-  "__v": 5,
+  "__v": 7,
   "_completionCriteria": {
     "_requireContentCompleted": false,
     "_requireAssessmentCompleted": true
@@ -50,6 +50,9 @@
     "medium": 760,
     "large": 900
   },
+  "_devtools": {
+    "_isEnabled": false
+  },
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
@@ -59,7 +62,7 @@
       "_shouldRecordInteractions": true
     },
     "_reporting": {
-      "_onTrackingCriteriaMet": "completed",
+      "_onTrackingCriteriaMet": "passed",
       "_onAssessmentFailure": "failed",
       "_resetStatusOnLanguageChange": false
     },
@@ -72,12 +75,9 @@
       "_commitRetryDelay": 2000,
       "_suppressErrors": true,
       "_commitOnVisibilityChangeHidden": true,
-      "_manifestIdentifier": "bmgf_cabi_odi_3",
+      "_manifestIdentifier": "odi-def-2",
       "_exitStateIfIncomplete": "auto",
       "_exitStateIfComplete": "auto"
     }
-  },
-  "_devtools": {
-    "_isEnabled": false
   }
 }

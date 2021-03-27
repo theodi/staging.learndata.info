@@ -135,7 +135,7 @@
         "contactEMail": "",
         "contactLinkText": "",
         "aboutCredit": "",
-        "SL_text": "<p>Content created for BMGF by The&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>&nbsp;and <a href=\"https://www.cabi.org/\" target=\"_blank\">CABI</a></p>",
+        "SL_text": "<p>This work is a derivative of a work of the same title originally&nbsp;created for&nbsp;<a href=\"https://www.cabi.org/\" target=\"_blank\">CABI</a>&nbsp;(the works owners)&nbsp;by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>&nbsp;and used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" rel=\"nofollow\" target=\"_blank\">CC BY</a>.</p>",
         "SL_facebook": "",
         "SL_flickr": "",
         "SL_github": "",
@@ -250,7 +250,7 @@
     "_nav": {
       "nav": "#333333",
       "nav-inverted": "#ffffff",
-      "hide-nav": false,
+      "hide-nav": true,
       "nav-icon": "#ffffff",
       "nav-icon-inverted": "#ffffff",
       "nav-icon-hover": "#ffffff",
@@ -317,31 +317,11 @@
       "shadow-inverted": "#ffffff"
     }
   },
-  "_aboutPage": {
-    "_items": [
-      {
-        "title": "",
-        "description": "<p>The Open Data Institute and CABI have produced this eLearning to support FAIR and safeguarded data in investments made by the Bill &amp; Melinda Gates Foundation. Collectively they should provide program officers and grantees with the introductory knowledge needed to have conversations around access, use and sharing of data in grants, while minimising harmful impacts.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      },
-      {
-        "title": "",
-        "description": "<p>Development of this content was funded as part of&nbsp;the \"<a href=\"https://www.cabi.org/projects/enabling-data-access-to-support-innovation-in-decision-agriculture-soil-health-agronomy-and-fertilizer/\" target=\"_blank\">enabling&nbsp;data access to support innovation</a>\" grant from the Bill and Melinda Gates Foundation.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      }
-    ]
-  },
   "_ODILicence": {
     "_items": [
       {
         "title": "License",
-        "description": "<p><span xmlns:dct=\"http://purl.org/dc/terms/\" property=\"dct:title\">Delivering FAIR and safeguarded data within investments</span> by <span xmlns:cc=\"http://creativecommons.org/ns#\" property=\"cc:attributionName\">CABI</span> is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.</p>",
+        "description": "<p>Working with data from third party sources by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>&nbsp;is licensed under a&nbsp;<a href=\"http://creativecommons.org/licenses/by/4.0/\" rel=\"license\">Creative Commons Attribution 4.0 International License</a>.</p>",
         "_graphic": {
           "alt": "",
           "src": "course/en/assets/19bb513efae607af695cb3d10bb16e2a5b51c2ab.png"
@@ -357,7 +337,7 @@
       },
       {
         "title": "Exclusions",
-        "description": "<p>This license does not cover:</p><ul><li>Logos and trade marks belonging to the Bill and Melinda Gates Foundation, the&nbsp;Open Data Institute or CABI.</li><li>Third party content (such as images)</li></ul>",
+        "description": "<p>This license does not cover:</p><ul><li>Logos and trade marks belonging to the&nbsp;Open Data Institute or other organisations.</li><li>Third party content (such as images)</li></ul>",
         "_graphic": {
           "alt": "",
           "src": ""
@@ -374,6 +354,26 @@
       {
         "title": "No warranty ",
         "description": "<p>The Information is licensed 'as is'. The information provider is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use.</p><p>The Information Provider does not guarantee the continued supply of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  "_FooterLink": {
+    "_items": [
+      {
+        "title": "Privacy policy",
+        "link": "https://theodi.org/about-the-odi/legal/privacy-policy"
+      }
+    ]
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "title": "",
+        "description": "<p>The Open Data Institute&nbsp;have produced this eLearning to support the Data Ethics Facilitators programme.</p><p>Development of this content was funded by Innovate UK.</p>",
         "_graphic": {
           "alt": "",
           "src": ""

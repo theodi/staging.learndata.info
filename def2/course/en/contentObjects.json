@@ -44,6 +44,9 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
+    "_FooterLink": {
+      "_items": []
+    },
     "_boxMenu": {
       "_renderAsGroup": false
     },
