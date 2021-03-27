@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Maximising reuse of data through licensing and sharing",
+    "displayTitle": "Maximising reuse of data through licensing and sharing",
+    "body": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licenses as ways to safely share data and maximise its reuse.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licenses as ways to safely share data and maximise its reuse.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "605e03c3b8e5fc126ff9fe1e",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/998ebc1d7c382c8b81f4422982efce0f4b27a07d.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  }
+]

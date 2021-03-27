@@ -1,0 +1,1597 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licenses as ways to safely share data and maximise its reuse.</p>",
+    "_id": "605e03c3b8e5fc126ff9fe3a",
+    "_parentId": "605e03c3b8e5fc126ff9fe25",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe3b",
+    "_parentId": "605e03c3b8e5fc126ff9fe25",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "small": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "attribution": "<a href=\"https://www.gatesfoundation.org/\" target=\"_blank\">Bill & Melinda Gates Foundation</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Outcomes",
+    "displayTitle": "",
+    "body": "<p>This module introduces:</p><ul><li>The benefits of data sharing to the data publisher</li><li>Why data sharing agreements and licenses are important</li><li>The difference between data licenses and data sharing agreements</li><li>Choosing between using a data sharing agreement and an data license</li><li>How to build a data sharing agreement</li><li>How to build an open license for data</li><li>Using existing open licenses for data</li><li>Choosing a license for data sharing</li></ul>",
+    "_id": "605e03c3b8e5fc126ff9fe3c",
+    "_parentId": "605e03c3b8e5fc126ff9fe26",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The benefits of data sharing to the data publisher",
+    "displayTitle": "",
+    "body": "<p>Which of the following are benefits of sharing data with others?</p>",
+    "_id": "605e03c3b8e5fc126ff9fe3d",
+    "_parentId": "605e03c3b8e5fc126ff9fe27",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Increased reputation and collaboration opportunities",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Increased trust through transparency",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Potential for data to be enriched and improved by others",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>There are many benefits of sharing data with others including:&nbsp;</p><ul><li>Increased reputation and collaboration opportunities</li><li>Increased trust through transparency</li><li>Potential for data to be enriched and improved by others</li><li>Potential economic growth and impact resulting from your data underpinning a commercial product.</li><li>Potential environmental &amp; societal benefit resulting from your data underpinning information and support services.</li><li>An enlarged ecosystem gives potential new skills, knowledge and uses of your data you didn’t know were possible.</li></ul>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>There are many benefits of sharing data with others including:&nbsp;</p><ul><li>Increased reputation and collaboration opportunities</li><li>Increased trust through transparency</li><li>Potential for data to be enriched and improved by others</li><li>Potential economic growth and impact resulting from your data underpinning a commercial product.</li><li>Potential environmental &amp; societal benefit resulting from your data underpinning information and support services.</li><li>An enlarged ecosystem gives potential new skills, knowledge and uses of your data you didn’t know were possible.</li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The benefits of data sharing to the data publisher",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe3e",
+    "_parentId": "605e03c3b8e5fc126ff9fe27",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b265ee9425be75f8041ad475ba1b3b954f2269b2.png",
+      "small": "course/en/assets/b265ee9425be75f8041ad475ba1b3b954f2269b2.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why data sharing agreements and licenses are important?",
+    "displayTitle": "",
+    "body": "<p>Why are data sharing agreements and licenses important?</p>",
+    "_id": "605e03c3b8e5fc126ff9fe3f",
+    "_parentId": "605e03c3b8e5fc126ff9fe28",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select two answers then click 'submit'",
+    "_items": [
+      {
+        "text": "Give users explicit and legal permissions to users of data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Put in place clauses that protect and distance the data publisher from any potential risks",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Provide a highly lucrative way of making money from data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Data sharing agreements and data licenses provide permission for users (e.g. academics, businesses, governments and individuals) to innovate with data. Both provide users with certainty that the data can be used and shared for a wide range of purposes.&nbsp;</p><p>Without a license or data sharing agreement, both users and publishers may find themselves in a legal grey area.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Data sharing agreements and data licenses provide permission for users (e.g. academics, businesses, governments and individuals) to innovate with data. Both provide users with certainty that the data can be used and shared for a wide range of purposes.&nbsp;</p><p>Without a license or data sharing agreement, both users and publishers may find themselves in a legal grey area.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why data sharing agreements and licenses are important?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe40",
+    "_parentId": "605e03c3b8e5fc126ff9fe28",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d19e725b511afb63b6328b660bf3bb867f4b3074.png",
+      "small": "course/en/assets/d19e725b511afb63b6328b660bf3bb867f4b3074.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The difference between data licenses and data sharing agreements",
+    "displayTitle": "",
+    "body": "<p>Rights and permissions to access, use and share data are governed by a set of rules, policies, processes, legislation and community norms.&nbsp;</p><p>To the end user however, rights and permissions most commonly exist in the forms of data licenses and data sharing agreements.</p>",
+    "_id": "605e03c3b8e5fc126ff9fe41",
+    "_parentId": "605e03c3b8e5fc126ff9fe29",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Characteristics of data sharing agreements",
+    "displayTitle": "Characteristics of data sharing agreements",
+    "body": "<p>Data sharing agreements are usually contracts that will have been signed between two or more organisations sharing data. They set out the purpose and legal basis for sharing data as well as setting out how, when, where and for how long data will be shared. &nbsp;</p><p>Data sharing agreements are most useful when organisations, of any kind, are sharing with detailed, binding rules about what each side may do and must do. This is useful in high-risk situations where the data is sensitive or personal, and is essential if one organisation is performing a task or contract for another and is being granted access to the data for that purpose. It helps everyone involved to be clear on their obligations and specifies roles and responsibilities.</p><p>Responsibilities could also include the requirement for organisations to make a version of the dataset available openly for others to use, setting requirements to remove or suppress sensitive and personal data before doing so.&nbsp;</p><p><a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">This checklist will help when designing data sharing agreements</a>.&nbsp;</p>",
+    "_id": "605e03c3b8e5fc126ff9fe42",
+    "_parentId": "605e03c3b8e5fc126ff9fe2a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Characteristics of data licenses",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">It differs from data sharing agreements in the following ways:</p><ul dir=\"ltr\"><li>Permission is granted in advance, rather than when somebody asks for access.</li><li>Permission is not time-limited - there is no start and end date.</li><li>Rather than naming specific people or organisations, it applies to everyone (as long as they abide by the license terms)</li><li>A user does not typically sign an open data license</li><li>It usually contains at most three sets of conditions.</li><li>What must be done by the user</li><li>What can be done by the user</li><li>What cannot be done by the user</li></ul>",
+    "_id": "605e03c3b8e5fc126ff9fe43",
+    "_parentId": "605e03c3b8e5fc126ff9fe2b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Characteristics of data licenses",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe44",
+    "_parentId": "605e03c3b8e5fc126ff9fe2b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ac62235b7e0d1bdf1858c06f23da4f39023b6bad.png",
+      "small": "course/en/assets/ac62235b7e0d1bdf1858c06f23da4f39023b6bad.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing between using a data sharing agreement and a data license",
+    "displayTitle": "",
+    "body": "<p>Can you distinguish which is more appropriate in the following scenarios?</p>",
+    "_id": "605e03c3b8e5fc126ff9fe47",
+    "_parentId": "605e03c3b8e5fc126ff9fe2d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-one mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing between using a data sharing agreement and a data license",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe48",
+    "_parentId": "605e03c3b8e5fc126ff9fe2d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>"
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q1-3",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe49",
+    "_parentId": "605e03c3b8e5fc126ff9fe2e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "I’m granting access but I want this to end after 12 months? ",
+        "_options": [
+          {
+            "text": "Data license",
+            "_isCorrect": false
+          },
+          {
+            "text": "Data sharing agreement",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "I’m hoping to support local developers to make apps? ",
+        "_options": [
+          {
+            "text": "Data license",
+            "_isCorrect": true
+          },
+          {
+            "text": "Data sharing agreement",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "I’m granting access so the user can do some work for me? ",
+        "_options": [
+          {
+            "text": "Data license",
+            "_isCorrect": false
+          },
+          {
+            "text": "Data sharing agreement",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">If you are granting access to data under specific conditions, such as for a limited amount of time or for a very specific purpose then a data sharing agreement should be considered.&nbsp;</p><p dir=\"ltr\">Encouraging an ecosystem to emerge around your data, supporting developers and local communities with easily available data is best done with an open data license.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">If you are granting access to data under specific conditions, such as for a limited amount of time or for a very specific purpose then a data sharing agreement should be considered.&nbsp;</p><p dir=\"ltr\">Encouraging an ecosystem to emerge around your data, supporting developers and local communities with easily available data is best done with an open data license.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing between using a data sharing agreement and a data license",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe4a",
+    "_parentId": "605e03c3b8e5fc126ff9fe2e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1aa2465d39a9ca999bb28f2ac0f678bca001697b.png",
+      "small": "course/en/assets/1aa2465d39a9ca999bb28f2ac0f678bca001697b.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q4-6",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe4b",
+    "_parentId": "605e03c3b8e5fc126ff9fe2f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "This is sensitive/personal data that can’t be anonymised? ",
+        "_options": [
+          {
+            "text": "Data license",
+            "_isCorrect": false
+          },
+          {
+            "text": "Data sharing agreement",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "This data isn’t sensitive in any way and I don’t mind how people use it but I don't think they should make money from it? ",
+        "_options": [
+          {
+            "text": "Data license",
+            "_isCorrect": true
+          },
+          {
+            "text": "Data sharing agreement",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "I need to make sure I get the credit for collecting/sharing the data?",
+        "_options": [
+          {
+            "text": "Data license",
+            "_isCorrect": true
+          },
+          {
+            "text": "Data sharing agreement",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">When sharing personal or sensitive data this is usually done under a formally signed contract such as a data sharing agreement. As well as setting out the legal terms relating to the data sharing the agreement will set our roles and responsibilities that both parties agree to.&nbsp;</p><p dir=\"ltr\">A data license is more suited for generic terms that can cover the non-commercial restriction on data usage and the requirement for any user to give credit to the rights holder.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">When sharing personal or sensitive data this is usually done under a formally signed contract such as a data sharing agreement. As well as setting out the legal terms relating to the data sharing the agreement will set our roles and responsibilities that both parties agree to.&nbsp;</p><p dir=\"ltr\">A data license is more suited for generic terms that can cover the non-commercial restriction on data usage and the requirement for any user to give credit to the rights holder.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing between using a data sharing agreement and a data license",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe4c",
+    "_parentId": "605e03c3b8e5fc126ff9fe2f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/dd0d64fd9b714646f13badcaa61a1685ac81d80e.png",
+      "small": "course/en/assets/dd0d64fd9b714646f13badcaa61a1685ac81d80e.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Building a data sharing agreement",
+    "displayTitle": "",
+    "body": "<p>A <a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a> sets out the purpose and legal basis for sharing data as well as setting out how, when, where and for how long data will be shared.&nbsp;</p><p>Each agreement will likely be bespoke and focussed on a particular application or domain or purpose.&nbsp;</p><p>Unlike a data license, a data sharing agreement will often go into much more detail on the scope and detail the characteristics of the data and how it should be used to fulfil a specific purpose.&nbsp;</p><p>Often data sharing agreements are set up due to the need to share personal data between a data controller and a data processor. Here the lawful basis for sharing data is dictated by data protection regulations and will be detailed in the data sharing agreement.&nbsp;</p><p>Finally, data sharing agreements are contracts so will require legal signatures from both parties.</p>",
+    "_id": "605e03c3b8e5fc126ff9fe4d",
+    "_parentId": "605e03c3b8e5fc126ff9fe30",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Building a data sharing agreement",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe4e",
+    "_parentId": "605e03c3b8e5fc126ff9fe30",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/efef0b78e6a904198ed137c3bc95851f47966551.png",
+      "small": "course/en/assets/efef0b78e6a904198ed137c3bc95851f47966551.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data sharing agreements in practice",
+    "displayTitle": "",
+    "body": "<p>The Cereal Systems Initiative for South Asia has established a data sharing agreement pertaining to a particular dataset; the Landscape Diagnostic Survey data. This agreement has been put in place in order to facilitate the sharing of raw data between partners. As the raw data contains personal information, the agreement outlines the responsibilities of each party to protect the data and requires permission to be sought prior to the onward sharing of raw data.&nbsp;</p><p>Additionally, by signing the agreement, all parties agree that curated and anonymised data will be made publicly available, under an open licence, within twelve months.</p>",
+    "_id": "605e03c3b8e5fc126ff9fe4f",
+    "_parentId": "605e03c3b8e5fc126ff9fe31",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data sharing agreements in action",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe50",
+    "_parentId": "605e03c3b8e5fc126ff9fe31",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/95dbc068786f294d637069ce60c13b7d31f1d614.png",
+      "small": "course/en/assets/95dbc068786f294d637069ce60c13b7d31f1d614.png",
+      "attribution": "<a href=\"https://csisa.org/\" target=\"_blank\">CSISA</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "dragndrop",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Building a data license",
+    "displayTitle": "",
+    "body": "<p>A data license grants up-front permission to use and reuse data, so long as the user complies with a specified set of terms. Many organisations and governments around the world are adopting open data licenses for sharing data.&nbsp;</p><p>See if you can sort the following conditions into the three boxes in order to build an open data license.</p>",
+    "_id": "605e03c3b8e5fc126ff9fe51",
+    "_parentId": "605e03c3b8e5fc126ff9fe32",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Drag your answers into each box and then click 'submit'",
+    "_items": [
+      {
+        "text": "A user can (with this data):",
+        "accepted": [
+          "Use in research",
+          "Modify",
+          "Share",
+          "Use commercially"
+        ]
+      },
+      {
+        "text": "A use must (if they do anything with the data)",
+        "accepted": [
+          "Attribute the data provider/owner"
+        ]
+      },
+      {
+        "text": "A user cannot",
+        "accepted": [
+          "Claim ownership of the data",
+          "Claim endorsement for the work",
+          "Seek damages for low quality data"
+        ]
+      }
+    ],
+    "dummyAnswers": [
+      "Misuse the data"
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_feedback": {
+      "correct": "<p><strong>That’s right!</strong></p><p>Open data licenses provide users with certainty that the data can be accessed, used, modified and shared for a wide range of purposes.</p><p>For a license to be an open one, it must give users explicit permission to use the data for both commercial and non-commercial purposes.</p><p>Publishers can require that users attribute the data provider or even share modifications to the data for others to benefit from.&nbsp;</p><p>A data user cannot claim ownership, endorsement or any damages from the data publisher that result from their use or analysis of the data, regardless of the quality of the data.&nbsp;</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Open data licenses provide users with certainty that the data can be accessed, used, modified and shared for a wide range of purposes.</p><p>For a license to be an open one, it must give users explicit permission to use the data for both commercial and non-commercial purposes.</p><p>Publishers can require that users attribute the data provider or even share modifications to the data for others to benefit from.&nbsp;</p><p>A data user cannot claim ownership, endorsement or any damages from the data publisher that result from their use or analysis of the data, regardless of the quality of the data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show correct answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "Hide correct answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common licenses for data sharing",
+    "displayTitle": "",
+    "body": "<p>The simpler the license, the better.</p><p>There are lots of different licenses. To maximise reuse, try to adopt a license standard that is already widely used - using an existing license can save you time and money and can help reusers understand what they can and cannot do via permissions written in standard wording that is widely used, therefore maximising the utility of data and potential value that can be unlocked.</p><p>There are a number of common licences available to freely use,&nbsp;explore the common ones below:</p>",
+    "_id": "605e03c3b8e5fc126ff9fe52",
+    "_parentId": "605e03c3b8e5fc126ff9fe33",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common licenses for data sharing",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe53",
+    "_parentId": "605e03c3b8e5fc126ff9fe33",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5b26e715f89a0b0d899762d0ae27ec50705e042e.png",
+      "small": "course/en/assets/5b26e715f89a0b0d899762d0ae27ec50705e042e.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Creative commons marks and licenses",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe54",
+    "_parentId": "605e03c3b8e5fc126ff9fe34",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fe3aa799f40042a2e092e5593b9f5cb83e66eba9.png",
+      "small": "course/en/assets/fe3aa799f40042a2e092e5593b9f5cb83e66eba9.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Open government licenses",
+    "displayTitle": "",
+    "body": "<p>Some publishers choose to adopt in-country government licenses. This has the advantage of being created and backed by local regulations.&nbsp;</p><p>In the majority of cases these are similar, to the point of being completely compatible with, creative commons licenses. The only difference in some cases is the name, logo and jurisdiction of laws that govern the license.&nbsp;</p><p>Some good examples of clear open government data licenses include:</p><ul><li><strong><a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">The UK Open Government license</a></strong></li><li><strong><a href=\"https://data.gov.in/government-open-data-license-india\" target=\"_blank\">The Government Open Data License for India</a></strong></li></ul>",
+    "_id": "605e03c3b8e5fc126ff9fe55",
+    "_parentId": "605e03c3b8e5fc126ff9fe35",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Open government licenses",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe56",
+    "_parentId": "605e03c3b8e5fc126ff9fe35",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b9941d800a6e5f65c496ca87e057e305e2203df5.png",
+      "small": "course/en/assets/b9941d800a6e5f65c496ca87e057e305e2203df5.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Creative commons marks and licenses",
+    "displayTitle": "",
+    "body": "<p>Creative Commons marks and licenses are widely used for open content. Version 4.0 explicitly considers data licensing. You can choose a license (or mark) that works for you at the <a href=\"https://creativecommons.org/choose/\" target=\"_blank\">Creative Commons website</a>.&nbsp;</p><p>There are three Creative Commons marks and licenses that are open:</p>",
+    "_id": "605e03c3b8e5fc126ff9fe57",
+    "_parentId": "605e03c3b8e5fc126ff9fe34",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Public domain: (CC0)",
+        "body": "<p>The <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">public domain mark</a> can be used by a copyright holder to waive all your rights over a piece of data, including copyright. This is particularly useful in the sharing of data and databases, since it otherwise may be unclear whether highly factual data and databases are restricted by copyright or other rights.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Attribution: (CC-BY v4.0)",
+        "body": "<p>The <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">Creative Commons attribution license</a> gives users rights to access, use and share (even commercially) your content. The only restriction is that the user must give credit to the data publisher (rights holder).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Attribution & share-alike: (CC-BY-SA v4.0)",
+        "body": "<p>The <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Creative Commons attribution &amp; share-alike license</a>&nbsp;is the same as the attribution license with the added restriction that the data user must share back any changes and modifications made to the data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing a license for data sharing",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe58",
+    "_parentId": "605e03c3b8e5fc126ff9fe36",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "I’m hoping to support local developers to make apps.",
+        "_options": [
+          {
+            "text": "CC0",
+            "_isCorrect": true
+          },
+          {
+            "text": "CC-BY",
+            "_isCorrect": true
+          },
+          {
+            "text": "CC-BY-SA",
+            "_isCorrect": false
+          },
+          {
+            "text": "CC-BY-NC",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Others can benefit from my data but I would like the data to remain as open as possible.",
+        "_options": [
+          {
+            "text": "CC0",
+            "_isCorrect": false
+          },
+          {
+            "text": "CC-BY",
+            "_isCorrect": false
+          },
+          {
+            "text": "CC-BY-SA",
+            "_isCorrect": true
+          },
+          {
+            "text": "CC-BY-NC",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "This data isn’t sensitive in any way and I don’t mind how people use it but I don't think they should make money from it.",
+        "_options": [
+          {
+            "text": "CC0",
+            "_isCorrect": false
+          },
+          {
+            "text": "CC-BY",
+            "_isCorrect": false
+          },
+          {
+            "text": "CC-BY-SA",
+            "_isCorrect": false
+          },
+          {
+            "text": "CC-BY-NC",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">For data to be open and support the development of apps you should choose a CC-BY or CC-BY-SA license. Choosing a non-commercial license such as CC-BY-NC limits what can be done with the data and its ability to be enriched with other data. If you want to benefit from commercial use of data, then a CC-BY-SA license may actually be a more appropriate choice as this will require the company to share back any modifications or changes they have made to the data. Many governments avoid this license however as it can put many off from using the data.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">For data to be open and support the development of apps you should choose a CC-BY or CC-BY-SA license. Choosing a non-commercial license such as CC-BY-NC limits what can be done with the data and its ability to be enriched with other data. If you want to benefit from commercial use of data, then a CC-BY-SA license may actually be a more appropriate choice as this will require the company to share back any modifications or changes they have made to the data. Many governments avoid this license however as it can put many off from using the data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing a license for data sharing",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe59",
+    "_parentId": "605e03c3b8e5fc126ff9fe36",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/28d9be9c33039a1edb45c747e37c851deea6e83d.png",
+      "small": "course/en/assets/28d9be9c33039a1edb45c747e37c851deea6e83d.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Summary",
+    "displayTitle": " Summary",
+    "body": "<p>Rights and permissions to access, use and share data are governed by a set of rules, policies, processes, legislation and community norms.&nbsp;</p><p>To the end user however, rights and permissions most commonly exist in the forms of data licenses and data sharing agreements.</p><p>Data sharing agreements and licenses provide permission for users (e.g. academics, businesses, governments and individuals) to innovate with data. Without them such rights are unclear and innovation suffers as a result.</p><p>Unless a data sharing agreement is required, best practice for sustainability is to license data.&nbsp;To maximise reuse, try to adopt a license standard that is already widely used - using an existing license can save you time and money and can help users quickly understand what they can and cannot do with data.</p>",
+    "_id": "605e03c3b8e5fc126ff9fe5b",
+    "_parentId": "605e03c3b8e5fc126ff9fe38",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide clipboard",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe5c",
+    "_parentId": "605e03c3b8e5fc126ff9fe38",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The difference between data licenses and data sharing agreements",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe5d",
+    "_parentId": "605e03c3b8e5fc126ff9fe29",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1aa2465d39a9ca999bb28f2ac0f678bca001697b.png",
+      "small": "course/en/assets/1aa2465d39a9ca999bb28f2ac0f678bca001697b.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data licenses in practice",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">There are many examples of data licenses in practice, with some of the worlds biggest websites such as <a href=\"https://wikipedia.org/\" target=\"_blank\">wikipedia</a>, <a href=\"https://www.flickr.com/\" target=\"_blank\">flickr</a> and <a href=\"https://www.scribd.com/\" target=\"_blank\">scribd</a>. In the agricultural sector the Innovative Solutions for Decision Agriculture Soil platform has launched soil information maps at a resolution of 30 meters, encompassing 24 billion unique locations across Africa. All data is easily accessible through an easy to use and well documented API and all available under a Creative Commons Attribution (CC-BY v4.0) licence.&nbsp;</p><p dir=\"ltr\"><a class=\"button\" href=\"https://www.isda-africa.com/isdasoil/\" target=\"_blank\">Explore the iSDAsoil platform for yourself</a></p>",
+    "_id": "605e03c3b8e5fc126ff9fe5e",
+    "_parentId": "605e03c3b8e5fc126ff9fe39",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data licenses in practice",
+    "displayTitle": "",
+    "body": "",
+    "_id": "605e03c3b8e5fc126ff9fe5f",
+    "_parentId": "605e03c3b8e5fc126ff9fe39",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4d91f275c51db3d019aa2f28ecc1cee022fd423b.png",
+      "small": "course/en/assets/4d91f275c51db3d019aa2f28ecc1cee022fd423b.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  }
+]
