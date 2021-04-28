@@ -1288,6 +1288,10 @@
           {
             "text": "Consent",
             "_isCorrect": false
+          },
+          {
+            "text": "Vital interest",
+            "_isCorrect": true
           }
         ]
       },
@@ -1308,6 +1312,10 @@
           },
           {
             "text": "Consent",
+            "_isCorrect": false
+          },
+          {
+            "text": "Vital interest",
             "_isCorrect": false
           }
         ]
@@ -1330,6 +1338,10 @@
           {
             "text": "Consent",
             "_isCorrect": false
+          },
+          {
+            "text": "Vital interest",
+            "_isCorrect": false
           }
         ]
       },
@@ -1351,15 +1363,19 @@
           {
             "text": "Consent",
             "_isCorrect": true
+          },
+          {
+            "text": "Vital interest",
+            "_isCorrect": false
           }
         ]
       }
     ],
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">Not everything needs a person’s consent. The provision of many services is covered under the performance of contract with the consumer or legal obligations (or public duties) with which the provider has to abide.</p><p dir=\"ltr\">Deciding if vital or legitimate interest applies relies on being proportionate – if something feels excessive from the public’s point of view, then it probably is. The&nbsp;<a href=\"https://ico.org.uk/global/data-protection-and-coronavirus-information-hub/coronavirus-recovery-data-protection-advice-for-organisations/\" target=\"_blank\">Information Commissioner's Office in the UK</a> provides some excellent guidance on this.&nbsp;</p><p>Considering carefully the ethics of your reasons for collecting, using and sharing (or not sharing) the data will help you decide if such a basis can apply.&nbsp;</p><p>Regardless of the lawful basis, it is always a good idea to keep people informed about how data will be collected, used and shared, be that via a privacy notice (if using personal information) or via other means.</p>",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">Not everything needs a person’s consent. The provision of many services is covered under the performance of contract with the consumer or legal obligations (or public duties) with which the provider has to abide.</p><p dir=\"ltr\">Deciding if vital or legitimate interest applies relies on being proportionate – if something feels excessive from the public’s point of view, then it probably is. The&nbsp;<a href=\"https://ico.org.uk/global/data-protection-and-coronavirus-information-hub/coronavirus-recovery-data-protection-advice-for-organisations/\" target=\"_blank\">Information Commissioner's Office in the UK</a> provides some excellent guidance on this.&nbsp;</p><p>Considering carefully the ethics of your reasons for collecting, using and sharing (or not sharing) the data will help you decide if such a basis can apply.&nbsp;</p><p>Regardless of the lawful basis, it is always a good idea to keep people informed about how data will be collected, used and shared, be that via a privacy notice (if using personal information) or via other means.</p><p><em>Note on question 1: Although vital interest is usually used as the basis for sharing data during times of crisis, sometimes legitimate interest is equally valid. Either way, it was deemed in the interests of those in the UK who were instructed to shield at home that permitted the NHS to share data with supermarkets so food delivery could be prioritised. Obviously this doesn’t mean supermarkets can retain the data following the shielding programme ending, and have been <a href=\"https://www.decisionmarketing.co.uk/news/ico-warns-supermarkets-over-covid-19-data-retention\" target=\"_blank\">warned</a>&nbsp;they will have no lawful basis for doing so.</em></p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Not everything needs a person’s consent. The provision of many services is covered under the performance of contract with the consumer or legal obligations (or public duties) with which the provider has to abide.</p><p dir=\"ltr\">Deciding if vital or legitimate interest applies relies on being proportionate – if something feels excessive from the public’s point of view, then it probably is. The&nbsp;<a href=\"https://ico.org.uk/global/data-protection-and-coronavirus-information-hub/coronavirus-recovery-data-protection-advice-for-organisations/\" target=\"_blank\">Information Commissioner's Office in the UK</a> provides some excellent guidance on this.&nbsp;</p><p>Considering carefully the ethics of your reasons for collecting, using and sharing (or not sharing) the data will help you decide if such a basis can apply.&nbsp;</p><p>Regardless of the lawful basis, it is always a good idea to keep people informed about how data will be collected, used and shared, be that via a privacy notice (if using personal information) or via other means.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Not everything needs a person’s consent. The provision of many services is covered under the performance of contract with the consumer or legal obligations (or public duties) with which the provider has to abide.</p><p dir=\"ltr\">Deciding if vital or legitimate interest applies relies on being proportionate – if something feels excessive from the public’s point of view, then it probably is. The&nbsp;<a href=\"https://ico.org.uk/global/data-protection-and-coronavirus-information-hub/coronavirus-recovery-data-protection-advice-for-organisations/\" target=\"_blank\">Information Commissioner's Office in the UK</a> provides some excellent guidance on this.</p><p>Considering carefully the ethics of your reasons for collecting, using and sharing (or not sharing) the data will help you decide if such a basis can apply.&nbsp;</p><p>Regardless of the lawful basis, it is always a good idea to keep people informed about how data will be collected, used and shared, be that via a privacy notice (if using personal information) or via other means.</p><p>Note on question 1: Although vital interest is usually used as the basis for sharing data during times of crisis, sometimes legitimate interest is equally valid. Either way, it was deemed in the interests of those in the UK who were instructed to shield at home that permitted the NHS to share data with supermarkets so food delivery could be prioritised. Obviously this doesn’t mean supermarkets can retain the data following the shielding programme ending, and have been warned they will have no lawful basis for doing so.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -1559,5 +1575,97 @@
       "small": "course/en/assets/85453508e23ceb3b89e52149f5115dcc27919dab.png",
       "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">ODI (Original by CABI)</a> <span class='assetLicence'>[CC-BY]</span>"
     }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Establishing the lawful basis for processing personal data",
+    "displayTitle": "Establishing the lawful basis for processing personal data",
+    "body": "<p>Data protection regulations require everyone to process personal data lawfully, fairly and in a transparent manner. There are six lawful bases outlined in UK data protection regulations (adopted from the EU GDPR). At least one must apply. Without a lawful basis, it is illegal to collect and process personal data.&nbsp;</p><p>Additionally, with the exception of consent, if the same task could be reasonably performed without collecting personal data then the lawful basis does not apply.&nbsp;</p><p>Relying on consent gives individuals the data is about the widest selection of rights, so this should be considered carefully before simply adopting it.</p>",
+    "_id": "608967fe086a1300887bf756",
+    "_parentId": "608967bc086a1300887bf755",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Explore the six lawful basis in the sections below:",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Public task",
+        "body": "<p>Personal data can be processed where it is necessary to perform a task in the public interest or for official functions, where the task or function has a clear basis in law.</p><p>Examples include provision or public utilities, e.g. water, electricity and education.&nbsp;</p><p>When it doesn’t apply: To create an Alumni network of University leavers or for fundraising.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Performance of contract",
+        "body": "<p>Personal data can be processed when there is a need to fulfil a contract with an individual, or if the individual has asked for specific steps to be taken before entering into a contract.</p><p>For example, personal data can be processed to provide a quote for fitting double glazing on a house and the subsequent fitting. It can also be processed in order to assess the financial position of someone prior to purchasing large items such as a car or house.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Legal obligation",
+        "body": "<p>Under this basis, personal data can be processed in order to comply with UK law. For example, to comply with UK employment law. Contractual obligations with third parties do not count as a legal basis for processing.&nbsp;</p><p>When using this basis, the individual has no right to data portability, or right to object. An individual has a right to erasure if the legal obligation has expired. For example, if someone left a company over 3 years ago then there is unlikely to be a legal obligation for the employer to keep hold of data about that person (a very small quantity is required for longer).&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Vital interests",
+        "body": "<p>Under this basis, personal data can be processed if it is necessary to protect someone’s life. This does not apply if the person’s vital interests can be protected in another less intrusive way.</p><p>This lawful basis also does not apply for health data or other special category data if the individual is capable of giving consent.</p><p>A common example of vital interests is in crisis response situations, such as natural disasters/emergencies, outbreak of an epidemic/pandemic etc.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Legitimate interests",
+        "body": "<p>Under this basis personal data can be processed if it is in the legitimate interests of the individual, third parties, or society. Legitimate interests is the most flexible lawful basis for processing, but it cannot be assumed it will always be the most appropriate.</p><p>For a legitimate interest to apply, a data controller/processors interests must be balanced against the individual’s. If an individual would not reasonably expect the processing, or if it would cause unjustified harm, their interests are likely to override those of the controller/processor.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Informed consent",
+        "body": "<p>To use this basis, individuals must be informed about how personal data is going to be used and consent given for each individual use. Consent cannot ask for open-ended permission to use data however the controller wants, such as “to improve our service”.&nbsp;</p><p>Gaining consent must be through clear affirmative action, such as a button press or an opt-in tick box. Hidden conditions and opt-out options where no action is required does not constitute clearly obtained consent under UK Data Protection regulations and GDPR.&nbsp;</p><p>Additionally the individual must be able to withdraw their consent at any time. The process for withdrawing consent must be as easy to complete as that for giving consent.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
   }
 ]

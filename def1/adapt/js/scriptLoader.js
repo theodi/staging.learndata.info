@@ -62,7 +62,8 @@
         }
       },
       paths: {
-        polyfill: 'libraries/polyfill.min',
+        'regenerator-runtime': 'libraries/regenerator-runtime.min',
+        'core-js': 'libraries/core-js.min',
         jquery: 'libraries/jquery.min',
         underscore: 'libraries/underscore.min',
         'underscore.results': 'libraries/underscore.results',
@@ -77,7 +78,11 @@
         scrollTo: 'libraries/scrollTo.min',
         bowser: 'libraries/bowser',
         'enum': 'libraries/enum',
-        jqueryMobile: 'libraries/jquery.mobile.custom'
+        jqueryMobile: 'libraries/jquery.mobile.custom',
+        react: 'libraries/react.development',
+        'react-dom': 'libraries/react-dom.development',
+        'object.assign': 'libraries/object.assign',
+        'html-react-parser': 'libraries/html-react-parser.min'
       }
     });
     loadJQuery();
@@ -110,7 +115,8 @@
     require([
       'handlebars',
       'underscore',
-      'polyfill',
+      'regenerator-runtime',
+      'core-js',
       'underscore.results',
       'backbone',
       'backbone.controller',
@@ -123,7 +129,11 @@
       'libraries/jquery.resize',
       'scrollTo',
       'bowser',
-      'enum'
+      'enum',
+      'react',
+      'react-dom',
+      'object.assign',
+      'html-react-parser'
     ], loadGlobals);
   }
 

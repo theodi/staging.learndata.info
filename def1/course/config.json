@@ -75,7 +75,7 @@
       "_commitRetryDelay": 2000,
       "_suppressErrors": true,
       "_commitOnVisibilityChangeHidden": true,
-      "_manifestIdentifier": "bmgf_cabi_odi_4",
+      "_manifestIdentifier": "odi-def-1",
       "_exitStateIfIncomplete": "auto",
       "_exitStateIfComplete": "auto"
     }

@@ -611,9 +611,9 @@
     }
   },
   {
-    "title": "Establishing a lawful basis for the ethical collection, use and sharing of (personal) data",
-    "displayTitle": "Establishing a lawful basis for the ethical collection, use and sharing of (personal) data",
-    "body": "<p>Regardless of whether data is personal, it is still worthwhile considering the basis under which it is collected, used and shared.</p>",
+    "title": "Establishing the lawful basis for processing personal data",
+    "displayTitle": "",
+    "body": "",
     "_classes": "",
     "_trackingId": 14,
     "instruction": "",
@@ -623,7 +623,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6037b1d92fc9a20067b6be32",
+    "_id": "608967bc086a1300887bf755",
     "_parentId": "6022ae6e7dd851005ec5c763",
     "_type": "block",
     "_onScreen": {
@@ -684,6 +684,53 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Establishing a lawful basis for the ethical collection, use and sharing of (personal) data",
+    "displayTitle": "Establishing a lawful basis for the ethical collection, use and sharing of (personal) data",
+    "body": "<p>Regardless of whether data is personal, it is still worthwhile considering the basis under which it is collected, used and shared.</p>",
+    "_classes": "",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6037b1d92fc9a20067b6be32",
+    "_parentId": "6022ae6e7dd851005ec5c763",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
