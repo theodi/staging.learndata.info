@@ -1,0 +1,484 @@
+{
+  "title": "xAPI Test - CP Catapult",
+  "displayTitle": "xAPI Test - CP Catapult",
+  "body": "",
+  "subtitle": "",
+  "description": "",
+  "instruction": "",
+  "_htmlClasses": "",
+  "_latestTrackingId": 14,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_requireCompletionOf": -1,
+  "_lockType": "",
+  "_id": "course",
+  "_globals": {
+    "_accessibility": {
+      "skipNavigationText": "Skip navigation",
+      "_ariaLabels": {
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "skipNavigation": "Skip Navigation",
+        "previous": "Back",
+        "navigationDrawer": "Open course resources and search",
+        "close": "Close",
+        "closeDrawer": "Close Drawer",
+        "closeResources": "Close resources",
+        "drawer": "Side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Complete",
+        "incomplete": "Incomplete",
+        "incorrect": "Incorrect",
+        "correct": "Correct",
+        "locked": "Locked",
+        "visited": "Visited"
+      }
+    },
+    "_extensions": {
+      "_aboutPage": {
+        "linkText": "About",
+        "titleText": "About",
+        "contactEMail": "training@theodi.org",
+        "contactLinkText": "Contact",
+        "aboutCredit": "",
+        "SL_text": "",
+        "SL_facebook": "",
+        "SL_flickr": "",
+        "SL_github": "",
+        "SL_scribd": "",
+        "SL_soundcloud": "",
+        "SL_twitter": "",
+        "SL_vimeo": "",
+        "SL_youtube": ""
+      },
+      "_ODILicence": {
+        "linkText": "Licence",
+        "titleText": "Licence"
+      },
+      "_tutor": {
+        "hideFeedback": "Hide feedback"
+      },
+      "_xapi": {
+        "confirm": "OK",
+        "lrsConnectionErrorTitle": "LRS not available",
+        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional Content",
+        "_navOrder": "0"
+      }
+    },
+    "_components": {
+      "_expose": {
+        "ariaRegion": ""
+      },
+      "_tabs": {
+        "ariaRegion": "A tabbed content container. Content can be text, graphic or both."
+      },
+      "_list": {
+        "ariaRegion": ""
+      },
+      "_jsonschema": {
+        "ariaRegion": "This question requires you to input your answer in the codebox provided. When you have done so, select the submit button below."
+      },
+      "_fileinput": {
+        "ariaRegion": "Multiple choice question",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_downloadButton": {
+        "ariaRegion": ""
+      },
+      "_stacklist": {
+        "ariaRegion": "This stacklist component presents a list of items. Select the button to access each item in turn.",
+        "ariaButtonLabel": "Select this button to access the next item in the stacklist."
+      },
+      "_lottieInteractivity": {
+        "ariaRegion": ""
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative.",
+        "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
+      },
+      "_media": {
+        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
+        "skipToTranscript": "Skip to transcript",
+        "playText": "Play",
+        "pauseText": "Pause",
+        "stopText": "Stop",
+        "audioPlayerText": "Audio Player",
+        "videoPlayerText": "Video Player",
+        "tracksText": "Captions/Subtitles",
+        "timeSliderText": "Time Slider",
+        "muteText": "Mute Toggle",
+        "unmuteStatusText": "Unmute",
+        "muteStatusText": "Mute",
+        "volumeSliderText": "Volume Slider",
+        "fullscreenText": "Fullscreen",
+        "goFullscreenText": "Go Fullscreen",
+        "turnOffFullscreenText": "Turn off Fullscreen",
+        "noneText": "None",
+        "skipBackText": "Skip back %1 seconds",
+        "allyVolumeControlText": "Use Up/Down Arrow keys to increase or decrease volume.",
+        "progessHelpText": "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_graphic": {
+        "ariaRegion": "",
+        "scrollAriaLabel": "Use the scrollbar to pan the image left and right. {{#if _graphic.alt}}{{_graphic.alt}}{{/if}}"
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit.",
+        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_mcq": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswerRange": "The correct answer is any value from {{{bottom}}} to {{{top}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_chartjs": {
+        "ariaRegion": "This is a charting component."
+      },
+      "_moral-machine-gmcq": {
+        "ariaRegion": "Multiple choice question",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_moralMachineResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_choose": {
+        "ariaRegion": "Choose. Select options and then submit.",
+        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
+      },
+      "_dropItems": {
+        "ariaRegion": "Drop items",
+        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
+      },
+      "_notify-imagegrid": {
+        "ariaRegion": "This component contains images laid out in a flexible grid."
+      },
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      }
+    },
+    "_menu": {
+      "_boxMenu": {
+        "durationLabel": "Duration:"
+      }
+    }
+  },
+  "_start": {
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "63c53b08b38aaf6b93dd65a5",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
+    "_force": false,
+    "_isMenuDisabled": true
+  },
+  "_type": "course",
+  "themeVariables": {
+    "_global": {
+      "max-width": "1200px",
+      "device-width-small": "520px",
+      "device-width-medium": "900px",
+      "device-width-large": "1024px",
+      "title-family": "'Open Sans', Helvetica, Arial, sans-serif",
+      "body-family": "'Open Sans', Helvetica, Arial, sans-serif",
+      "btn-family": "'Open Sans', Helvetica, Arial, sans-serif",
+      "font-color": "#4d4d4d",
+      "font-color-inverted": "#ffffff",
+      "link": "",
+      "link-inverted": "",
+      "link-hover": "",
+      "link-inverted-hover": ""
+    },
+    "_themeLogo": {
+      "theme-logo-top-padding": "0rem",
+      "theme-logo-width": "75%"
+    },
+    "_colors": {
+      "color-one": "#016a51",
+      "color-one-inverted": "#ffffff",
+      "color-two": "#5bbda1",
+      "color-two-inverted": "#ffffff",
+      "color-three": "#44bfda",
+      "color-three-inverted": "#ffffff",
+      "color-four": "#483698",
+      "color-four-inverted": "#ffffff",
+      "color-five": "#470a68",
+      "color-five-inverted": "#ffffff",
+      "color-six": "#6d2077",
+      "color-six-inverted": "#ffffff",
+      "color-seven": "#00a3a1",
+      "color-seven-inverted": "#ffffff",
+      "color-eight": "#ef3aab",
+      "color-eight-inverted": "#ffffff",
+      "color-nine": "#e6007c",
+      "color-nine-inverted": "#ffffff",
+      "color-ten": "#1dd3a7",
+      "color-ten-inverted": "#ffffff"
+    },
+    "_items": {
+      "item-color": "#00b6ff",
+      "item-color-inverted": "#ffffff",
+      "item-color-hover": "",
+      "item-color-inverted-hover": "",
+      "item-color-selected": "",
+      "item-color-inverted-selected": "",
+      "visited": "#333333",
+      "visited-inverted": "#ffffff"
+    },
+    "_buttons": {
+      "btn-color": "#333333",
+      "btn-color-inverted": "#ffffff",
+      "btn-color-hover": "",
+      "btn-color-inverted-hover": "",
+      "disabled": "#dddddd",
+      "disabled-inverted": "#000000"
+    },
+    "_validation": {
+      "validation-success": "#0dbc37",
+      "validation-success-inverted": "#ffffff",
+      "validation-error": "#d60303",
+      "validation-error-inverted": "#ffffff"
+    },
+    "_progress": {
+      "progress": "#333333",
+      "progress-inverted": "#ffffff",
+      "progress-border": "#333333"
+    },
+    "_menu": {
+      "menu-item": "#00b6ff",
+      "menu-item-inverted": "#ffffff",
+      "menu-item-border-color": "#00b6ff",
+      "menu-item-progress": "#00b6ff",
+      "menu-item-progress-inverted": "#ffffff",
+      "menu-item-progress-border": "#ffffff",
+      "menu-item-btn-color": "#ffffff",
+      "menu-item-btn-color-inverted": "#00b6ff",
+      "menu-item-btn-color-hover": "#333333",
+      "menu-item-btn-color-inverted-hover": "#ffffff"
+    },
+    "_nav": {
+      "nav": "#333333",
+      "nav-inverted": "#ffffff",
+      "hide-nav": true,
+      "nav-icon": "#ffffff",
+      "nav-icon-inverted": "#ffffff",
+      "nav-icon-hover": "#ffffff",
+      "nav-icon-inverted-hover": "#ffffff",
+      "navigation-logo": "",
+      "nav-logo-height": "60px",
+      "nav-logo-height-mobile": "50px",
+      "nav-logo-padding-top": "5px",
+      "nav-logo-padding-top-mobile": "3px",
+      "nav-logo-padding-left": "5px",
+      "nav-logo-padding-left-mobile": "3px",
+      "nav-progress": "",
+      "nav-progress-inverted": "",
+      "nav-progress-border": "",
+      "nav-progress-hover": "",
+      "nav-progress-inverted-hover": "",
+      "nav-progress-border-hover": ""
+    },
+    "_footer": {
+      "footer": "#333333",
+      "footer-inverted": "#ffffff",
+      "footer-logo": "course/assets/f9855a4bc775449c566dabcd78c05fde759d0689.png"
+    },
+    "_notify": {
+      "notify": "#333333",
+      "notify-inverted": "#ffffff",
+      "notify-link": "",
+      "notify-link-hover": "",
+      "notify-btn": "",
+      "notify-btn-inverted": "",
+      "notify-btn-hover": "",
+      "notify-btn-inverted-hover": "",
+      "notify-icon": "",
+      "notify-icon-inverted": "",
+      "notify-icon-hover": "",
+      "notify-icon-inverted-hover": ""
+    },
+    "_drawer": {
+      "drawer": "#333333",
+      "drawer-inverted": "#ffffff",
+      "drawer-link": "",
+      "drawer-link-hover": "",
+      "drawer-icon": "",
+      "drawer-icon-inverted": "",
+      "drawer-icon-hover": "",
+      "drawer-icon-inverted-hover": "",
+      "drawer-item": "",
+      "drawer-item-inverted": "",
+      "drawer-item-hover": "",
+      "drawer-item-inverted-hover": "",
+      "drawer-item-selected": "",
+      "drawer-item-inverted-selected": "",
+      "drawer-progress": "",
+      "drawer-progress-inverted": "",
+      "drawer-progress-border": "",
+      "drawer-progress-hover": "",
+      "drawer-progress-inverted-hover": "",
+      "drawer-progress-border-hover": ""
+    },
+    "_misc": {
+      "background": "#333333",
+      "background-inverted": "#ffffff",
+      "shadow": "#333333",
+      "shadow-inverted": "#ffffff"
+    }
+  },
+  "_aboutPage": {
+    "_items": []
+  },
+  "_ODILicence": {
+    "_items": [
+      {
+        "title": "All rights reserved",
+        "description": "<p>&copy; The Open Data Institute</p><p>All rights reserved.</p><p>Not for deployment or distribution.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  "_tutor": {
+    "_type": "notify",
+    "_classes": "",
+    "_hasNotifyBottomButton": false,
+    "_button": {
+      "text": "{{_globals._extensions._tutor.hideFeedback}}",
+      "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+    }
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "block",
+    "_showPrompt": false,
+    "title": "Resume...",
+    "body": "Would you like to resume from your last recorded position?",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 60,
+    "_correctToPass": 60
+  },
+  "_boxMenu": {
+    "_backgroundImage": {
+      "_large": "",
+      "_medium": "",
+      "_small": ""
+    },
+    "_backgroundStyles": {
+      "_backgroundRepeat": null,
+      "_backgroundSize": null,
+      "_backgroundPosition": null
+    },
+    "_menuHeader": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      }
+    }
+  }
+}

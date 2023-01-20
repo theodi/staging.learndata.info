@@ -1,0 +1,92 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_fixes": {
+    "_imgLazyLoad": true
+  },
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_disableAnimationFor": [],
+  "_id": "63c53b09b38aaf6b93dd65ce",
+  "__v": 3,
+  "_accessibility": {
+    "_isEnabled": false,
+    "_isSkipNavigationEnabled": false,
+    "_ariaLevels": {
+      "_menu": "1",
+      "_menuGroup": "@menu+1",
+      "_menuItem": "@menu+1",
+      "_page": "1",
+      "_article": "@page+1",
+      "_block": "@article+1",
+      "_component": "@block+1",
+      "_componentItem": "@component+1",
+      "_notify": "1"
+    }
+  },
+  "_courseId": "63c53b08b38aaf6b93dd65a4",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "screenSize": {
+    "small": 480,
+    "medium": 480,
+    "large": 1280
+  },
+  "_logging": {
+    "_isEnabled": false,
+    "_level": null,
+    "_console": false,
+    "_warnFirstOnly": true
+  },
+  "_completionCriteria": {
+    "_requireContentCompleted": false,
+    "_requireAssessmentCompleted": true
+  },
+  "_scrollingContainer": {
+    "_isEnabled": false,
+    "_limitToSelector": ""
+  },
+  "_devtools": {
+    "_isEnabled": true
+  },
+  "_xapi": {
+    "_isEnabled": true,
+    "_specification": "xAPI",
+    "_activityID": "https://testing.learndata.info/cp-cat-test",
+    "_cookiePrefix": "info.learndata",
+    "_endpoint": "https://theodi.learninglocker.net/data/xAPI",
+    "_user": "53ad75b3008049a939627492652929bb349d93ff",
+    "_password": "048a8d334e01353a8c9d6ac0133541ed0ad84b97",
+    "_lang": "en-US",
+    "_generateIds": false,
+    "_shouldTrackState": false,
+    "_shouldUseRegistration": false,
+    "_componentBlacklist": "blank,graphic",
+    "_coreEvents": {
+      "Adapt": {
+        "router:menu": false,
+        "router:page": false,
+        "questionView:recordInteraction": true,
+        "assessments:complete": true
+      },
+      "contentObjects": {
+        "change:_isComplete": true
+      },
+      "articles": {
+        "change:_isComplete": false
+      },
+      "blocks": {
+        "change:_isComplete": true
+      },
+      "components": {
+        "change:_isComplete": true
+      }
+    },
+    "_lrsFailureBehaviour": "show",
+    "_queryURL": ""
+  }
+}
