@@ -74,7 +74,7 @@
         "assessments:complete": true
       },
       "contentObjects": {
-        "change:_isComplete": true
+        "change:_isComplete": false
       },
       "articles": {
         "change:_isComplete": false
